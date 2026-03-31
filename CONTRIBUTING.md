@@ -14,7 +14,7 @@ Every entry must:
 - **Be directly related to Codex CLI** — general AI/LLM tools don't belong unless they have specific Codex integration.
 - **Be actively maintained** — no abandoned projects (last commit > 6 months ago) unless they are stable and still useful.
 - **Have a clear description** — one sentence explaining what it does and why it's worth your time.
-- **Include star count** — append ⭐ {count} for GitHub repos (updated quarterly).
+- **Include star badge** — append `![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=flat-square)` for GitHub repos. These update automatically.
 
 ## Format
 
@@ -41,6 +41,6 @@ Every entry must:
 
 Add entries to the most specific category. If no category fits, propose a new one in your PR description.
 
-## Star Counts
+## Star Badges
 
-Star counts are approximate and updated periodically. Don't worry about getting them exactly right — we'll update them during review.
+Star badges are powered by [shields.io](https://shields.io) and update automatically. Use the `flat-square` style for consistency.
