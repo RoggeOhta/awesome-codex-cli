@@ -1,10 +1,19 @@
 # Awesome Codex CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome tools, skills, subagents, plugins, and resources for [OpenAI Codex CLI](https://github.com/openai/codex) — the open-source coding agent that runs in your terminal.
+[![GitHub stars](https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social)](https://github.com/RoggeOhta/awesome-codex-cli)
+[![Last Commit](https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli)](https://github.com/RoggeOhta/awesome-codex-cli/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/RoggeOhta/awesome-codex-cli/pulls)
+[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Codex CLI lets you use OpenAI models to write, refactor, and reason about code directly from the command line — with sandboxed execution, multi-agent orchestration, and a growing ecosystem of skills and plugins.
+> A curated list of awesome tools, skills, subagents, plugins, and resources for [OpenAI Codex CLI](https://github.com/openai/codex) — the open-source AI coding agent that runs in your terminal.
 
-**Why this list?** The Codex ecosystem is fragmented across dozens of repos. This list consolidates the best resources into one place, with opinionated descriptions so you know what's actually worth your time.
+[Codex CLI](https://github.com/openai/codex) is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line — with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
+
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos — subagents here, skills there, plugins somewhere else. This list consolidates **150+ resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+
+**Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
+
+If you find this useful, please give it a star — it helps others discover the list.
 
 ---
 
