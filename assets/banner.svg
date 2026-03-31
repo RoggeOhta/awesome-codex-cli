@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0f0a"/>
+    </linearGradient>
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#00ffcc"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <linearGradient id="green-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff88"/>
+      <stop offset="50%" stop-color="#00ffcc"/>
+      <stop offset="100%" stop-color="#00ff88"/>
+    </linearGradient>
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="40%" stop-color="#00ffaa"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <filter id="glow-sm">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-lg">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-xl">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bg)"/>
+
+  <!-- Grid lines -->
+  <g opacity="0.06" stroke="#00ffcc">
+    <line x1="0" y1="80" x2="1280" y2="80" stroke-width="0.5"/>
+    <line x1="0" y1="160" x2="1280" y2="160" stroke-width="0.5"/>
+    <line x1="0" y1="240" x2="1280" y2="240" stroke-width="0.5"/>
+    <line x1="0" y1="320" x2="1280" y2="320" stroke-width="0.5"/>
+    <line x1="0" y1="400" x2="1280" y2="400" stroke-width="0.5"/>
+    <line x1="0" y1="480" x2="1280" y2="480" stroke-width="0.5"/>
+    <line x1="0" y1="560" x2="1280" y2="560" stroke-width="0.5"/>
+    <line x1="160" y1="0" x2="160" y2="640" stroke-width="0.5"/>
+    <line x1="320" y1="0" x2="320" y2="640" stroke-width="0.5"/>
+    <line x1="480" y1="0" x2="480" y2="640" stroke-width="0.5"/>
+    <line x1="640" y1="0" x2="640" y2="640" stroke-width="0.5"/>
+    <line x1="800" y1="0" x2="800" y2="640" stroke-width="0.5"/>
+    <line x1="960" y1="0" x2="960" y2="640" stroke-width="0.5"/>
+    <line x1="1120" y1="0" x2="1120" y2="640" stroke-width="0.5"/>
+  </g>
+
+  <!-- Corner brackets - top left -->
+  <g filter="url(#glow-sm)" opacity="0.4">
+    <line x1="40" y1="40" x2="40" y2="90" stroke="#00d4ff" stroke-width="2"/>
+    <line x1="40" y1="40" x2="90" y2="40" stroke="#00d4ff" stroke-width="2"/>
+  </g>
+  <!-- Corner brackets - top right -->
+  <g filter="url(#glow-sm)" opacity="0.4">
+    <line x1="1240" y1="40" x2="1240" y2="90" stroke="#00d4ff" stroke-width="2"/>
+    <line x1="1240" y1="40" x2="1190" y2="40" stroke="#00d4ff" stroke-width="2"/>
+  </g>
+  <!-- Corner brackets - bottom left -->
+  <g filter="url(#glow-sm)" opacity="0.4">
+    <line x1="40" y1="600" x2="40" y2="550" stroke="#00d4ff" stroke-width="2"/>
+    <line x1="40" y1="600" x2="90" y2="600" stroke="#00d4ff" stroke-width="2"/>
+  </g>
+  <!-- Corner brackets - bottom right -->
+  <g filter="url(#glow-sm)" opacity="0.4">
+    <line x1="1240" y1="600" x2="1240" y2="550" stroke="#00d4ff" stroke-width="2"/>
+    <line x1="1240" y1="600" x2="1190" y2="600" stroke="#00d4ff" stroke-width="2"/>
+  </g>
+
+  <!-- Terminal prompt icon -->
+  <text x="640" y="185" text-anchor="middle" font-family="'Courier New', monospace" font-size="48" fill="#00ff88" filter="url(#glow-lg)" opacity="0.7">&gt;_</text>
+
+  <!-- AWESOME text -->
+  <text x="640" y="280" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', sans-serif" font-size="96" font-weight="900" fill="url(#title-grad)" filter="url(#glow-lg)" letter-spacing="16">AWESOME</text>
+
+  <!-- CODEX CLI text -->
+  <text x="640" y="370" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', sans-serif" font-size="80" font-weight="900" fill="url(#green-glow)" filter="url(#glow-lg)" letter-spacing="12">CODEX CLI</text>
+
+  <!-- Horizontal accent line -->
+  <line x1="340" y1="410" x2="940" y2="410" stroke="url(#cyan-glow)" stroke-width="1.5" filter="url(#glow-sm)" opacity="0.5"/>
+
+  <!-- Subtitle -->
+  <text x="640" y="460" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" fill="#8b949e" letter-spacing="4">THE CURATED LIST FOR OPENAI'S TERMINAL AGENT</text>
+
+  <!-- Decorative dots -->
+  <g opacity="0.3">
+    <circle cx="300" cy="460" r="2" fill="#00d4ff"/>
+    <circle cx="310" cy="460" r="2" fill="#00ffcc"/>
+    <circle cx="320" cy="460" r="2" fill="#00ff88"/>
+  </g>
+  <g opacity="0.3">
+    <circle cx="960" cy="460" r="2" fill="#00ff88"/>
+    <circle cx="970" cy="460" r="2" fill="#00ffcc"/>
+    <circle cx="980" cy="460" r="2" fill="#00d4ff"/>
+  </g>
+
+  <!-- Stats badges row -->
+  <g transform="translate(640, 530)">
+    <!-- 150+ Resources badge -->
+    <g transform="translate(-160, 0)">
+      <rect x="-70" y="-16" width="140" height="32" rx="6" fill="#161b22" stroke="#00d4ff" stroke-width="1" opacity="0.8"/>
+      <text x="0" y="6" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#00d4ff" filter="url(#glow-sm)">150+ Resources</text>
+    </g>
+    <!-- Open Source badge -->
+    <g transform="translate(0, 0)">
+      <rect x="-60" y="-16" width="120" height="32" rx="6" fill="#161b22" stroke="#00ff88" stroke-width="1" opacity="0.8"/>
+      <text x="0" y="6" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#00ff88" filter="url(#glow-sm)">Open Source</text>
+    </g>
+    <!-- CC0 License badge -->
+    <g transform="translate(160, 0)">
+      <rect x="-60" y="-16" width="120" height="32" rx="6" fill="#161b22" stroke="#00ffcc" stroke-width="1" opacity="0.8"/>
+      <text x="0" y="6" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#00ffcc" filter="url(#glow-sm)">CC0 License</text>
+    </g>
+  </g>
+</svg>

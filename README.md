@@ -1,10 +1,16 @@
-# Awesome Codex CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Codex CLI" width="600">
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social)](https://github.com/RoggeOhta/awesome-codex-cli)
-![Resources](https://img.shields.io/badge/resources-150%2B-blue)
-[![Last Commit](https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli)](https://github.com/RoggeOhta/awesome-codex-cli/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/RoggeOhta/awesome-codex-cli/pulls)
-![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+<h1 align="center">Awesome Codex CLI <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
+
+<p align="center">
+  <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
+  <img src="https://img.shields.io/badge/resources-150%2B-blue" alt="Resources">
+  <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
+  <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
+</p>
 
 > A curated list of awesome tools, skills, subagents, plugins, and resources for [OpenAI Codex CLI](https://github.com/openai/codex) - the open-source AI coding agent that runs in your terminal.
 
