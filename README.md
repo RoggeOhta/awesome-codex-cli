@@ -126,6 +126,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 ### Specialized Skills
 
 - [Upskill](https://github.com/huggingface/upskill) - Hugging Face's official skill pack for ML/AI development workflows. ![GitHub stars](https://img.shields.io/github/stars/huggingface/upskill?style=flat-square)
+- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in six classic engineering books — decay risk diagnostics with book citations, severity labels, and four analysis modes (PR review, architecture audit, tech debt, test quality). ![GitHub stars](https://img.shields.io/github/stars/hyhmrright/brooks-lint?style=flat-square)
 - [Mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Security-focused skills: vulnerability scanning, dependency auditing, OWASP checks. Works in Codex too despite the name. ![GitHub stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=flat-square)
 - [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) - Workflow automation skills - chained multi-step tasks with conditional logic. ![GitHub stars](https://img.shields.io/github/stars/nicepkg/ai-workflow?style=flat-square)
 - [cathrynlavery/codex-skill](https://github.com/cathrynlavery/codex-skill) - Clean, well-documented single-purpose skills. Good reference for writing your own. ![GitHub stars](https://img.shields.io/github/stars/cathrynlavery/codex-skill?style=flat-square)
