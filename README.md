@@ -250,7 +250,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [xintaofei/codeg](https://github.com/xintaofei/codeg) - Electron-based GUI with project templates and one-click sandboxing. ![GitHub stars](https://img.shields.io/github/stars/xintaofei/codeg?style=flat-square)
 - [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line) - Minimal prompt-centric UI. Stays out of your way. ![GitHub stars](https://img.shields.io/github/stars/nkmr-jp/prompt-line?style=flat-square)
 - [zhu1090093659/CodeConductor](https://github.com/zhu1090093659/CodeConductor) - Orchestrator GUI for managing multiple Codex agents visually. ![GitHub stars](https://img.shields.io/github/stars/zhu1090093659/CodeConductor?style=flat-square)
-- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Tauri/React/Rust desktop app for orchestrating multiple Codex agents across workspaces. Multi-workspace, git integration, prompt library. ![GitHub stars](https://img.shields.io/github/stars/Dimillian/CodexMonitor?style=flat-square)
+- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Tauri/React/Rust desktop app for orchestrating multiple Codex agents across workspaces. Multi-workspace, Git integration, prompt library. ![GitHub stars](https://img.shields.io/github/stars/Dimillian/CodexMonitor?style=flat-square)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and web client for Codex and Claude Code with end-to-end encryption. iOS/Android, push notifications, open-source. ![GitHub stars](https://img.shields.io/github/stars/slopus/happy?style=flat-square)
 - [just-every/code](https://github.com/just-every/code) - Enhanced Codex CLI fork with browser integration, multi-agent automation, Auto Drive orchestration, and theming. ![GitHub stars](https://img.shields.io/github/stars/just-every/code?style=flat-square)
 
@@ -268,7 +268,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [covibes/zeroshot](https://github.com/covibes/zeroshot) - Zero-shot task runner. Describe what you want in plain English, get a working codebase. ![GitHub stars](https://img.shields.io/github/stars/covibes/zeroshot?style=flat-square)
 - [waskosky/codex-cli-farm](https://github.com/waskosky/codex-cli-farm) - Run multiple Codex instances in parallel on different tasks. Session isolation built-in. ![GitHub stars](https://img.shields.io/github/stars/waskosky/codex-cli-farm?style=flat-square)
 - [joseferben/hands-please](https://github.com/joseferben/hands-please) - Human-in-the-loop workflow. Codex pauses at decision points and asks for your input. ![GitHub stars](https://img.shields.io/github/stars/joseferben/hands-please?style=flat-square)
-- [standardagents/dmux](https://github.com/standardagents/dmux) - Dev agent multiplexer: isolated tmux pane + git worktree per task. Supports 11+ agents including Codex. ![GitHub stars](https://img.shields.io/github/stars/standardagents/dmux?style=flat-square)
+- [standardagents/dmux](https://github.com/standardagents/dmux) - Dev agent multiplexer: isolated tmux pane + Git worktree per task. Supports 11+ agents including Codex. ![GitHub stars](https://img.shields.io/github/stars/standardagents/dmux?style=flat-square)
 - [mixpeek/amux](https://github.com/mixpeek/amux) - Open-source agent multiplexer. Run dozens of parallel Codex/Claude agents unattended via tmux. Self-healing watchdog. ![GitHub stars](https://img.shields.io/github/stars/mixpeek/amux?style=flat-square)
 
 ## Model Providers & Proxies
@@ -290,7 +290,7 @@ Codex supports `openai_base_url` for custom model providers. Use any OpenAI-comp
 Use `codex exec` for non-interactive automation in pipelines.
 
 - [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - 35 automation recipes organized by category: code quality, CI/CD, releases, deps, security. ![GitHub stars](https://img.shields.io/github/stars/onurkanbakirci/awesome-codex-automations?style=flat-square)
-- [openai/codex-action](https://github.com/openai/codex-action) - Official GitHub Action: install Codex, configure sandbox, run `codex exec` in CI. ![GitHub stars](https://img.shields.io/github/stars/openai/codex-action?style=flat-square)
+
 
 ### Patterns
 
@@ -432,7 +432,7 @@ Codex CLI team members and frequent contributors:
 - [Headcrab/telecodex](https://github.com/Headcrab/telecodex) - Telegram bridge for running local Codex CLI remotely with topic-aware sessions, attachments, and streamed replies. ![GitHub stars](https://img.shields.io/github/stars/Headcrab/telecodex?style=flat-square)
 - [ShunmeiCho/cc-clip](https://github.com/ShunmeiCho/cc-clip) - Paste images into remote Claude Code and Codex CLI over SSH. Clipboard bridging for macOS and Windows. ![GitHub stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square)
 - [chuvadenovembro/script-to-use-codex-cli-on-remote-server](https://github.com/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment) - Headless server setup guide with auth workarounds. ![GitHub stars](https://img.shields.io/github/stars/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment?style=flat-square)
-- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
+- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, Git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
 
 ---
 
