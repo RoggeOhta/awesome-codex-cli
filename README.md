@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/resources-245%2B-blue" alt="Resources">
+  <img src="https://img.shields.io/badge/resources-280%2B-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
@@ -16,7 +16,7 @@
 
 Codex CLI is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line - with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
 
-**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **245+ resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **280+ resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
 
 **Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
 
@@ -93,6 +93,8 @@ Project-level instruction files that tell Codex how to work with your codebase -
 - [claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Dual AGENTS.md + CLAUDE.md setup for teams running both agents side-by-side. ![GitHub stars](https://img.shields.io/github/stars/fcakyon/claude-codex-settings?style=flat-square)
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - Cross-tool config generator - outputs AGENTS.md, CLAUDE.md, and .cursorrules from one source. ![GitHub stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup?style=flat-square)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - The open AGENTS.md specification under Linux Foundation. 60k+ adopting projects. ![GitHub stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square)
+- [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) - Curated list of real-world AGENTS.md files, templates, guides, and tools for Codex-based agents. ![GitHub stars](https://img.shields.io/github/stars/Ischca/awesome-agents-md?style=flat-square)
+- [danielrosehill/Agents.md-Templates](https://github.com/danielrosehill/Agents.md-Templates) - Collection of AGENTS.md templates following the standard suggested by OpenAI. ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Agents.md-Templates?style=flat-square)
 
 ## Subagents
 
@@ -110,6 +112,8 @@ Multi-agent orchestration with `.toml` definitions. Codex supports parallel fan-
 - [Alexin09/cc-subagent-codex](https://github.com/Alexin09/cc-subagent-codex) - Lightweight subagent pack focused on TypeScript/React projects. ![GitHub stars](https://img.shields.io/github/stars/Alexin09/cc-subagent-codex?style=flat-square)
 - [waltstephen/ArgusBot](https://github.com/waltstephen/ArgusBot) - 24/7 supervisor agent that keeps Codex and Claude Code running, reviewing, and planning until tasks are done. ![GitHub stars](https://img.shields.io/github/stars/waltstephen/ArgusBot?style=flat-square)
 - [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) - Multi-agent parallel scheduling config templates for primary agent coordination and sub-agent distribution. ![GitHub stars](https://img.shields.io/github/stars/atticus98/codex-turbo?style=flat-square)
+- [sehoon787/my-codex](https://github.com/sehoon787/my-codex) - All-in-one agent harness for Codex CLI - Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. ![GitHub stars](https://img.shields.io/github/stars/sehoon787/my-codex?style=flat-square)
+- [shinpr/sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agent orchestration - routes tasks to Codex for fast refactors, Claude Code for long reasoning, Gemini for large-context analysis. ![GitHub stars](https://img.shields.io/github/stars/shinpr/sub-agents-skills?style=flat-square)
 
 ### Multi-Agent Orchestration
 
@@ -137,6 +141,8 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - Large curated skills repository with broad category coverage. ![GitHub stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square)
 - [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) - 55 curated skills and AGENTS.md playbooks: research, planning, GitHub automation, browser QA, frontend design. ![GitHub stars](https://img.shields.io/github/stars/mxyhi/ok-skills?style=flat-square)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Performance optimization system with 36 agents and 147 skills. Has `/codex-setup` command for Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square)
+- [simota/agent-skills](https://github.com/simota/agent-skills) - 100+ specialized AI agent skills for Claude Code / Codex CLI / Gemini CLI - dev, security, design, FinOps, compliance, testing. ![GitHub stars](https://img.shields.io/github/stars/simota/agent-skills?style=flat-square)
+- [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills) - Curated list of agent skills and tools for Claude Code, Codex, Gemini CLI, GitHub Copilot, and more. ![GitHub stars](https://img.shields.io/github/stars/gmh5225/awesome-skills?style=flat-square)
 
 ### Specialized Skills
 
@@ -164,6 +170,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - 76 agent skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks. ![GitHub stars](https://img.shields.io/github/stars/dpearson2699/swift-ios-skills?style=flat-square)
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - Agent-optimized React Native skills by Callstack: best practices, optimization, upgrade workflows. ![GitHub stars](https://img.shields.io/github/stars/callstackincubator/agent-skills?style=flat-square)
 - [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - LLM-first SEO analysis with 16 sub-skills, 10 specialist agents, and 33 utility scripts. ![GitHub stars](https://img.shields.io/github/stars/Bhanunamikaze/Agentic-SEO-Skill?style=flat-square)
+- [Gitmaxd/deepagents-cli-codex-skill](https://github.com/Gitmaxd/deepagents-cli-codex-skill) - Deep Agents CLI skill - scaffolds Codex skills and launches production subagent pipelines. ![GitHub stars](https://img.shields.io/github/stars/Gitmaxd/deepagents-cli-codex-skill?style=flat-square)
 
 ### Skills Management
 
@@ -188,6 +195,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - Plugin framework with dependency resolution and version management. ![GitHub stars](https://img.shields.io/github/stars/agent-sh/agentsys?style=flat-square)
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
 
 ## Hooks
 
@@ -212,12 +220,18 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Persistent project memory across sessions. Codex remembers decisions, patterns, and context. ![GitHub stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square)
 - [Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - Web search MCP with rate limiting and caching. ![GitHub stars](https://img.shields.io/github/stars/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server?style=flat-square)
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - Link multiple MCP servers together. Chain tools across servers. ![GitHub stars](https://img.shields.io/github/stars/milisp/mcp-linker?style=flat-square)
+- [xiaolai/codex-octopus](https://github.com/xiaolai/codex-octopus) - One brain, many arms - spawns multiple specialized Codex agents as MCP servers. ![GitHub stars](https://img.shields.io/github/stars/xiaolai/codex-octopus?style=flat-square)
+- [karad/seiro-mcp](https://github.com/karad/seiro-mcp) - MCP server and skills for autonomous build workflows for visionOS (Swift) apps using Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/karad/seiro-mcp?style=flat-square)
+- [salparadi-labs/brain](https://github.com/salparadi-labs/brain) - Persistent memory MCP server for Codex sessions - stores decisions, tasks, preferences in SQLite. ![GitHub stars](https://img.shields.io/github/stars/salparadi-labs/brain?style=flat-square)
+- [vanthienha199/agent-cost-mcp](https://github.com/vanthienha199/agent-cost-mcp) - MCP server for tracking AI agent costs in real time - per-message spending, budget alerts, visual dashboard. ![GitHub stars](https://img.shields.io/github/stars/vanthienha199/agent-cost-mcp?style=flat-square)
 
 ### Codex as MCP Server
 
 - [leonardsellem/codex-subagents-mcp](https://github.com/leonardsellem/codex-subagents-mcp) - Expose Codex subagents as MCP tools. Other agents (Claude Code, Cursor) can call Codex agents. ![GitHub stars](https://img.shields.io/github/stars/leonardsellem/codex-subagents-mcp?style=flat-square)
 - [Mr-Tomahawk/codex-cli-mcp-tool](https://github.com/Mr-Tomahawk/codex-cli-mcp-tool) - Wrap Codex CLI as an MCP tool for use in other agent frameworks. ![GitHub stars](https://img.shields.io/github/stars/Mr-Tomahawk/codex-cli-mcp-tool?style=flat-square)
 - [agency-ai-solutions/openai-codex-mcp](https://github.com/agency-ai-solutions/openai-codex-mcp) - Full-featured Codex MCP bridge with streaming support. ![GitHub stars](https://img.shields.io/github/stars/agency-ai-solutions/openai-codex-mcp?style=flat-square)
+- [Leonard013/BigBrain](https://github.com/Leonard013/BigBrain) - MCP server that lets Claude Code talk to Codex (OpenAI) and Gemini (Google) CLIs for free. ![GitHub stars](https://img.shields.io/github/stars/Leonard013/BigBrain?style=flat-square)
+- [ching-kuo/claude-codex](https://github.com/ching-kuo/claude-codex) - Claude Code workflow integrating Codex as an MCP server - plan, implement, and review loops with smart routing. ![GitHub stars](https://img.shields.io/github/stars/ching-kuo/claude-codex?style=flat-square)
 
 ### General-Purpose MCP
 
@@ -236,6 +250,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [dliedke/ClaudeCodeExtension](https://github.com/dliedke/ClaudeCodeExtension) - Visual Studio .NET extension that supports both Claude Code and Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/dliedke/ClaudeCodeExtension?style=flat-square)
 - [smallmain/vscode-unify-chat-provider](https://github.com/smallmain/vscode-unify-chat-provider) - Unify multiple AI agents (Codex, Claude, Copilot) under one VS Code chat interface. ![GitHub stars](https://img.shields.io/github/stars/smallmain/vscode-unify-chat-provider?style=flat-square)
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Neovim AI sidekick supporting Claude, Gemini, Grok, Codex, Copilot CLI and more. Built-in AI terminal. ![GitHub stars](https://img.shields.io/github/stars/folke/sidekick.nvim?style=flat-square)
+- [Haleclipse/Codex-JetBrains](https://github.com/Haleclipse/Codex-JetBrains) - Run VS Code-based coding agents and extensions (including Codex) seamlessly within JetBrains IDEs. ![GitHub stars](https://img.shields.io/github/stars/Haleclipse/Codex-JetBrains?style=flat-square)
 
 ## GUI & Desktop Apps
 
@@ -253,6 +268,10 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Tauri/React/Rust desktop app for orchestrating multiple Codex agents across workspaces. Multi-workspace, Git integration, prompt library. ![GitHub stars](https://img.shields.io/github/stars/Dimillian/CodexMonitor?style=flat-square)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and web client for Codex and Claude Code with end-to-end encryption. iOS/Android, push notifications, open-source. ![GitHub stars](https://img.shields.io/github/stars/slopus/happy?style=flat-square)
 - [just-every/code](https://github.com/just-every/code) - Enhanced Codex CLI fork with browser integration, multi-agent automation, Auto Drive orchestration, and theming. ![GitHub stars](https://img.shields.io/github/stars/just-every/code?style=flat-square)
+- [onewesong/codex-viz](https://github.com/onewesong/codex-viz) - Local-first dashboard for Codex sessions - trends, token usage, tool insights, and word cloud from session history. ![GitHub stars](https://img.shields.io/github/stars/onewesong/codex-viz?style=flat-square)
+- [Cocoanetics/CodexMonitor](https://github.com/Cocoanetics/CodexMonitor) - macOS menu bar app to list, inspect, and watch local Codex CLI sessions. Includes VS Code integration. ![GitHub stars](https://img.shields.io/github/stars/Cocoanetics/CodexMonitor?style=flat-square)
+- [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Automated installer to run the OpenAI Codex Desktop app on Linux. ![GitHub stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square)
+- [LZY-Ricardo/AIDevHub](https://github.com/LZY-Ricardo/AIDevHub) - Desktop app (Tauri v2 + Rust + React) for managing MCP server configs and skills of Claude Code and Codex. ![GitHub stars](https://img.shields.io/github/stars/LZY-Ricardo/AIDevHub?style=flat-square)
 
 ## Session & Workflow Management
 
@@ -270,6 +289,10 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [joseferben/hands-please](https://github.com/joseferben/hands-please) - Human-in-the-loop workflow. Codex pauses at decision points and asks for your input. ![GitHub stars](https://img.shields.io/github/stars/joseferben/hands-please?style=flat-square)
 - [standardagents/dmux](https://github.com/standardagents/dmux) - Dev agent multiplexer: isolated tmux pane + Git worktree per task. Supports 11+ agents including Codex. ![GitHub stars](https://img.shields.io/github/stars/standardagents/dmux?style=flat-square)
 - [mixpeek/amux](https://github.com/mixpeek/amux) - Open-source agent multiplexer. Run dozens of parallel Codex/Claude agents unattended via tmux. Self-healing watchdog. ![GitHub stars](https://img.shields.io/github/stars/mixpeek/amux?style=flat-square)
+- [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - TUI session manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / OpenCode and more. ![GitHub stars](https://img.shields.io/github/stars/kbwo/ccmanager?style=flat-square)
+- [re-cinq/shift-log](https://github.com/re-cinq/shift-log) - Automatically saves coding agents' conversations in Git Notes. Works with Codex, Claude Code, Gemini CLI, OpenCode. ![GitHub stars](https://img.shields.io/github/stars/re-cinq/shift-log?style=flat-square)
+- [2ue/ccman](https://github.com/2ue/ccman) - Tool for managing Claude Code + Codex API + Gemini CLI + OpenCode service provider configurations. ![GitHub stars](https://img.shields.io/github/stars/2ue/ccman?style=flat-square)
+- [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search local coding agent session history across 11+ providers including Codex. ![GitHub stars](https://img.shields.io/github/stars/Dicklesworthstone/coding_agent_session_search?style=flat-square)
 
 ## Model Providers & Proxies
 
@@ -284,6 +307,7 @@ Codex supports `openai_base_url` for custom model providers. Use any OpenAI-comp
 - [lich0821/ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI. Rotate endpoints, monitor usage, seamlessly integrate OpenAI, Gemini, and others. ![GitHub stars](https://img.shields.io/github/stars/lich0821/ccNexus?style=flat-square)
 - [lzjever/air-gapped](https://github.com/lzjever/air-gapped) - Portable Codex CLI + vLLM for air-gapped/offline use. ![GitHub stars](https://img.shields.io/github/stars/lzjever/air-gapped?style=flat-square)
 - [maksimzayats/acodex](https://github.com/maksimzayats/acodex) - Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items). ![GitHub stars](https://img.shields.io/github/stars/maksimzayats/acodex?style=flat-square)
+- [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) - Lightweight local relay that converts Codex Desktop's Responses API to multiple protocol interfaces (OpenAI, Anthropic, Gemini). ![GitHub stars](https://img.shields.io/github/stars/icebear0828/codex-proxy?style=flat-square)
 
 ## CI/CD & Automation
 
@@ -323,6 +347,8 @@ Tools that bridge Codex with other AI coding agents.
 - [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) - Bridge Claude Code / Codex to IM platforms. Chat with AI coding agents from Telegram, Discord, or Feishu/Lark. ![GitHub stars](https://img.shields.io/github/stars/op7418/Claude-to-IM-skill?style=flat-square)
 - [Leoyang183/sync-agents-settings](https://github.com/Leoyang183/sync-agents-settings) - Sync MCP server configs from Claude Code to Gemini CLI, Codex CLI, OpenCode, Kiro, Cursor. One command, all agents. ![GitHub stars](https://img.shields.io/github/stars/Leoyang183/sync-agents-settings?style=flat-square)
 - [oil-oil/codex](https://github.com/oil-oil/codex) - Claude Code skill for delegating coding tasks to Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/oil-oil/codex?style=flat-square)
+- [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, and Codex - 22 specialists, parallel subagents, persistent sessions. ![GitHub stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=flat-square)
+- [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) - JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex). ![GitHub stars](https://img.shields.io/github/stars/catlog22/Claude-Code-Workflow?style=flat-square)
 
 ## Monitoring & Analytics
 
@@ -339,6 +365,9 @@ Tools that bridge Codex with other AI coding agents.
 
 - [Codex Universal](https://github.com/openai/codex-universal) - Official Docker base image. Pre-configured sandbox, multi-language support.
 - [DeepBlueDynamics/gnosis-container](https://github.com/DeepBlueDynamics/gnosis-container) - Codex CLI in Docker with 275+ MCP tools, cron/file-watcher/webhook triggers, multi-model support. ![GitHub stars](https://img.shields.io/github/stars/DeepBlueDynamics/gnosis-container?style=flat-square)
+- [libops/cli-sandbox](https://github.com/libops/cli-sandbox) - Docker sandbox container for Claude Code, Codex, Gemini CLI, and OpenCode. ![GitHub stars](https://img.shields.io/github/stars/libops/cli-sandbox?style=flat-square)
+- [itscooleric/clide](https://github.com/itscooleric/clide) - Dockerized agentic terminal - Claude Code, Copilot, Codex CLI in one sandboxed container with egress firewall and web terminal. ![GitHub stars](https://img.shields.io/github/stars/itscooleric/clide?style=flat-square)
+- [monkeymonk/agentbox](https://github.com/monkeymonk/agentbox) - Runtime manager for AI coding tools (including Codex) in isolated Docker containers - network filtering, config layering, context injection. ![GitHub stars](https://img.shields.io/github/stars/monkeymonk/agentbox?style=flat-square)
 
 ## Account & Auth
 
@@ -358,6 +387,15 @@ Tools that bridge Codex with other AI coding agents.
 - [How Codex Team Uses Their Agent (Every)](https://every.to/podcast/transcript-how-openai-s-codex-team-uses-their-coding-agent) - Transcript of the team discussing daily usage, tips, and antipatterns.
 - [Why Humans are AI's Biggest Bottleneck (Lenny's Newsletter)](https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck) - Broader perspective on AI coding agents, with Codex as a case study.
 - [Apidog: OpenAI Codex CLI](https://apidog.com/blog/openai-codex-cli/) - API-focused guide. Good for integrating Codex into existing toolchains.
+- [First Few Days with Codex CLI (Aman Mittal)](https://amanhimself.dev/blog/first-few-days-with-codex-cli/) - Developer diary covering setup friction, AGENTS.md discovery, and honest first impressions.
+- [Codex CLI Quick Start: AGENTS.md, Prompts, Safety (JP Caparas)](https://jpcaparas.medium.com/codex-cli-quick-start-agents-md-better-prompts-safer-runs-36d7060fcf68) - Focused guide on writing effective AGENTS.md files, prompt structuring, and approval-mode safety settings.
+- [From Broken Install to Multi-Agent Orchestration (Reza Rezvani)](https://alirezarezvani.medium.com/openai-codex-cli-from-broken-install-to-multi-agent-orchestration-production-guide-07d8b7d513ef) - Battle-tested production guide from common install failures to multi-agent fan-out patterns.
+- [Commands, Agents, and Advanced Workflows (Another Coding Blog)](https://www.anothercodingblog.com/p/working-with-openais-codex-cli-commands) - Full walkthrough of commands, AGENTS.md, subagent orchestration, MCP server setup, and CI/CD integration.
+- [Porting Skills to OpenAI Codex (fsck.com)](https://blog.fsck.com/2025/10/27/skills-for-openai-codex/) - Deep-dive on porting Claude Code's skills system to Codex CLI with a working SKILL.md authoring walkthrough.
+- [Skills in OpenAI Codex (fsck.com)](https://blog.fsck.com/2025/12/19/codex-skills/) - Follow-up covering the official skills feature flag launch, skill discovery, and invocation syntax.
+- [Codex CLI Automation: 3 Workflow Patterns (SmartScope)](https://smartscope.blog/en/generative-ai/chatgpt/codex-cli-automation-workflow-patterns/) - Production-ready automation patterns: GitHub Actions integration, cron-triggered runs, and CI pipeline embedding.
+- [How to Run Codex CLI Safely in GitHub Actions (SmartScope)](https://smartscope.blog/en/generative-ai/chatgpt/codex-cli-github-actions/) - Security-focused guide to sandboxing Codex in CI, secret management, and approval policy configuration.
+- [Deployment Workflows with Codex CLI (DeployHQ)](https://www.deployhq.com/blog/getting-started-with-openai-codex-cli-ai-powered-code-generation-from-your-terminal) - Deployment-focused guide with practical examples for CI/CD pipelines and code review automation.
 
 ## Videos & Podcasts
 
@@ -394,6 +432,11 @@ Tools that bridge Codex with other AI coding agents.
 - [Hacker News Discussion](https://news.ycombinator.com/item?id=43708025) - Community comparison thread with real-world experiences.
 - [Reddit AMA with Codex Team](https://www.reddit.com/r/ChatGPT/comments/1ko3tp1/ama_with_openai_codex_team/) - Team answers questions about design decisions and how Codex differs from alternatives.
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Side-by-side benchmark of terminal AI agents on real coding tasks. ![GitHub stars](https://img.shields.io/github/stars/duanyytop/agents-radar?style=flat-square)
+- [Codex vs Claude Code (Builder.io)](https://www.builder.io/blog/codex-vs-claude-code) - Side-by-side comparison with concrete benchmarks and use-case recommendations.
+- [Claude Code vs OpenAI Codex (Northflank)](https://northflank.com/blog/claude-code-vs-openai-codex) - Infrastructure-focused comparison covering deployment scenarios and cloud sandbox use cases.
+- [Claude Code vs Codex vs Gemini Code Assist (Educative)](https://www.educative.io/blog/claude-code-vs-codex-vs-gemini-code-assist) - Three-way comparison covering benchmarks, pricing, IDE integrations, and developer experience.
+- [Testing AI Coding Agents Benchmark (Render)](https://render.com/blog/ai-coding-agents-benchmark) - Real-world benchmark from Render comparing all major terminal coding agents on actual deployment and build tasks.
+- [Codex vs Gemini CLI (UI Bakery)](https://uibakery.io/blog/codex-vs-gemini-cli) - Head-to-head comparison focusing on developer tooling, context window, and free tier access.
 
 ## Community
 
