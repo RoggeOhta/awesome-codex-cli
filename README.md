@@ -191,7 +191,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 
 Distributable bundles combining skills + app integrations + MCP servers. Defined in `.codex-plugin/plugin.json`. Browse with `/plugins`.
 
-- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - The first plugin directory. Lists 12 official + ~20 community plugins with install instructions. ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/awesome-codex-plugins?style=flat-square)
+- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - The first plugin directory. Lists 35+ community plugins with install instructions, automated quality scanning, and CI integration via codex-plugin-scanner. ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/awesome-codex-plugins?style=flat-square)
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - Plugin framework with dependency resolution and version management. ![GitHub stars](https://img.shields.io/github/stars/agent-sh/agentsys?style=flat-square)
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
