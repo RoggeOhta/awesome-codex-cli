@@ -196,6 +196,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - AI-powered KiCad electronics design review — schematic analysis, PCB layout checks, EMC pre-compliance, SPICE simulation, component sourcing, and fab prep for KiCad 5–10. ![GitHub stars](https://img.shields.io/github/stars/aklofas/kicad-happy?style=flat-square)
 
 ## Hooks
 
