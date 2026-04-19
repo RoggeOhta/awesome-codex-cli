@@ -196,6 +196,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [tailtest](https://github.com/avansaber/tailtest-codex) - Hook-powered test automation plugin for Codex CLI. Stop hook sweeps mtimes after each turn, queues changed source files, and instructs Codex to generate and run tests automatically. 8 languages (Python, TypeScript, Go, Ruby, PHP, Java, Rust, JavaScript). Zero config. ![GitHub stars](https://img.shields.io/github/stars/avansaber/tailtest-codex?style=flat-square)
 
 ## Hooks
 
