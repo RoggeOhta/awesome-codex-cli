@@ -196,6 +196,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [yujiachen-y/codebase-recon-skill](https://github.com/yujiachen-y/codebase-recon-skill) - Codebase reconnaissance plugin — analyzes git history to surface hotspots, bug magnets, bus factor, and momentum before you read any code. Auto-scales by repo size; cross-references hotspots with bug magnets to flag high-risk files. ![GitHub stars](https://img.shields.io/github/stars/yujiachen-y/codebase-recon-skill?style=flat-square)
 
 ## Hooks
 
