@@ -353,6 +353,7 @@ Tools that bridge Codex with other AI coding agents.
 ## Monitoring & Analytics
 
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop but for AI coding agents. Monitor Claude Code and Codex CLI sessions, tokens, context window, rate limits in real-time. ![GitHub stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square)
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for Codex CLI, Claude Code, Gemini CLI, Aider, and Cursor sessions with cost, tokens, latency, anomalies, health gates, diffs, and shareable reports. ![GitHub stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square)
 - [fahd09/watchtower](https://github.com/fahd09/watchtower) - Monitor, inspect, and debug all API traffic between AI coding agents and their APIs with a real-time web dashboard. ![GitHub stars](https://img.shields.io/github/stars/fahd09/watchtower?style=flat-square)
 - [NihilDigit/waybar-ai-usage](https://github.com/NihilDigit/waybar-ai-usage) - Waybar widget showing real-time Codex token usage and costs. Linux desktop integration. ![GitHub stars](https://img.shields.io/github/stars/NihilDigit/waybar-ai-usage?style=flat-square)
 - [yoavf/ai-sessions-mcp](https://github.com/yoavf/ai-sessions-mcp) - MCP server that tracks session history, token usage, and cost across agents. ![GitHub stars](https://img.shields.io/github/stars/yoavf/ai-sessions-mcp?style=flat-square)
