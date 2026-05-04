@@ -238,6 +238,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) - Connect Codex to NotebookLM for research-augmented coding. ![GitHub stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
 - [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis) - Agentic malware analysis environment with MCP-connected disassemblers and RE tooling. ![GitHub stars](https://img.shields.io/github/stars/mrphrazer/agentic-malware-analysis?style=flat-square)
 - [Dekelelz/let-them-talk](https://github.com/Dekelelz/let-them-talk) - MCP message broker + web dashboard for inter-agent communication. Lets Codex, Claude Code, Gemini CLI talk to each other. ![GitHub stars](https://img.shields.io/github/stars/Dekelelz/let-them-talk?style=flat-square)
+- [swarmclawai/swarmvault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge vault with built-in MCP server (`npx -y @swarmvaultai/cli mcp`). Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Page search, page reads, source listing, query, ingest, compile, and lint tools. ![GitHub stars](https://img.shields.io/github/stars/swarmclawai/swarmvault?style=flat-square)
 
 ## IDE & Editor Integrations
 
@@ -349,6 +350,7 @@ Tools that bridge Codex with other AI coding agents.
 - [oil-oil/codex](https://github.com/oil-oil/codex) - Claude Code skill for delegating coding tasks to Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/oil-oil/codex?style=flat-square)
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, and Codex - 22 specialists, parallel subagents, persistent sessions. ![GitHub stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=flat-square)
 - [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) - JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex). ![GitHub stars](https://img.shields.io/github/stars/catlog22/Claude-Code-Workflow?style=flat-square)
+- [swarmclawai/swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent runtime that delegates to Codex CLI alongside Claude Code, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid. Org chart view, schedules, runtime skills, persistent memory, sub-agent spawning, and reviewed conversation-to-skill learning. MCP-native (server and client). Electron desktop app, CLI, and Docker. ![GitHub stars](https://img.shields.io/github/stars/swarmclawai/swarmclaw?style=flat-square)
 
 ## Monitoring & Analytics
 
