@@ -359,6 +359,7 @@ Tools that bridge Codex with other AI coding agents.
 - [HizTam/codex-history-viewer](https://github.com/HizTam/codex-history-viewer) - Browse and search past Codex sessions with full context. ![GitHub stars](https://img.shields.io/github/stars/HizTam/codex-history-viewer?style=flat-square)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - macOS menu bar app showing usage stats for Codex, Claude, Cursor, Gemini without login. On-device parsing. ![GitHub stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square)
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - CLI for analyzing Codex/Claude Code usage from local JSONL files. Daily/monthly reports, cost breakdown, MCP server mode. ![GitHub stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat-square)
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local TUI and report generator for inspecting Codex and other coding-agent session history across cost, tokens, latency, tool failures, and CI gates. ![GitHub stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square)
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - CLI + TUI + web dashboard tracking token usage across 16+ AI coding platforms. Rust core, contribution graphs, leaderboard. ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
 
 ## Docker & Sandboxing
