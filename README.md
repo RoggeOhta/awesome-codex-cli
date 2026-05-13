@@ -224,7 +224,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [karad/seiro-mcp](https://github.com/karad/seiro-mcp) - MCP server and skills for autonomous build workflows for visionOS (Swift) apps using Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/karad/seiro-mcp?style=flat-square)
 - [salparadi-labs/brain](https://github.com/salparadi-labs/brain) - Persistent memory MCP server for Codex sessions - stores decisions, tasks, preferences in SQLite. ![GitHub stars](https://img.shields.io/github/stars/salparadi-labs/brain?style=flat-square)
 - [vanthienha199/agent-cost-mcp](https://github.com/vanthienha199/agent-cost-mcp) - MCP server for tracking AI agent costs in real time - per-message spending, budget alerts, visual dashboard. ![GitHub stars](https://img.shields.io/github/stars/vanthienha199/agent-cost-mcp?style=flat-square)
-- [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - Reasoning Harness: library of 679 cognitive operations engineered in natural language across four harnesses (reasoning, code, anti-deception, memory). Each call retrieves a task-matched scaffold (failure pattern, procedure, suppression vectors, falsification test) the agent ingests before responding. Free tier 100 calls. ![GitHub stars](https://img.shields.io/github/stars/ejentum/ejentum-mcp?style=flat-square)
+- [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - MCP server with four pre-prompt cognitive scaffolds for reasoning, code review, anti-deception, and memory. ![GitHub stars](https://img.shields.io/github/stars/ejentum/ejentum-mcp?style=flat-square)
 
 ### Codex as MCP Server
 
