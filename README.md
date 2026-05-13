@@ -143,6 +143,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Performance optimization system with 36 agents and 147 skills. Has `/codex-setup` command for Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square)
 - [simota/agent-skills](https://github.com/simota/agent-skills) - 100+ specialized AI agent skills for Claude Code / Codex CLI / Gemini CLI - dev, security, design, FinOps, compliance, testing. ![GitHub stars](https://img.shields.io/github/stars/simota/agent-skills?style=flat-square)
 - [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills) - Curated list of agent skills and tools for Claude Code, Codex, Gemini CLI, GitHub Copilot, and more. ![GitHub stars](https://img.shields.io/github/stars/gmh5225/awesome-skills?style=flat-square)
+- [OrcaQubits/agentic-commerce-skills-plugins](https://github.com/OrcaQubits/agentic-commerce-skills-plugins) - 15 plugins, 286 skills for agentic commerce protocols (UCP, ACP, AP2, A2A, Stripe MPP, WebMCP, NLWeb) and major commerce platforms (Shopify, Magento, WooCommerce, BigCommerce, Salesforce, Medusa, Saleor, Spree). Cross-tool via Codex marketplace, Claude Code, Cursor, Gemini CLI, OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/OrcaQubits/agentic-commerce-skills-plugins?style=flat-square)
 
 ### Specialized Skills
 
