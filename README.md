@@ -333,6 +333,7 @@ codex exec "List all TODO comments" --ephemeral | sort
 
 Tools that bridge Codex with other AI coding agents.
 
+- [Akephalos](https://github.com/sunnja69/akephalos) - Local-first, markdown-first `.akephalos` passport and MCP stdio server for portable agent preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git. ![GitHub stars](https://img.shields.io/github/stars/sunnja69/akephalos?style=flat-square)
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - Universal agent orchestrator. Route tasks between Codex, Claude Code, and Gemini CLI based on model strengths. ![GitHub stars](https://img.shields.io/github/stars/DeepMyst/Mysti?style=flat-square)
 - [athola/skrills](https://github.com/athola/skrills) - Cross-platform skill format. Write once, use in Codex and Claude Code. ![GitHub stars](https://img.shields.io/github/stars/athola/skrills?style=flat-square)
 - [jcputney/agent-peer-review](https://github.com/jcputney/agent-peer-review) - Codex reviews Claude Code's output (and vice versa). Catches model-specific blind spots. ![GitHub stars](https://img.shields.io/github/stars/jcputney/agent-peer-review?style=flat-square)
