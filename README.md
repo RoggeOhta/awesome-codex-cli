@@ -274,7 +274,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [LZY-Ricardo/AIDevHub](https://github.com/LZY-Ricardo/AIDevHub) - Desktop app (Tauri v2 + Rust + React) for managing MCP server configs and skills of Claude Code and Codex. ![GitHub stars](https://img.shields.io/github/stars/LZY-Ricardo/AIDevHub?style=flat-square)
 
 ## Session & Workflow Management
-
+- [Token Watcher](https://github.com/Kk120306/tokenwatch) — Locally monitor Codex and Claude Code token usage so developers can catch oversized prompts, runaway loops, and expensive agent sessions earlier. ![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=flat-square)
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex) into self-contained, embeddable HTML replays. ![GitHub stars](https://img.shields.io/github/stars/es617/claude-replay?style=flat-square)
 - [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - Lightweight Python tool to clean AI refusal responses from Codex CLI session files. ![GitHub stars](https://img.shields.io/github/stars/ryfineZ/codex-session-patcher?style=flat-square)
 - [GreenSheep01201/Claw-Kanban](https://github.com/GreenSheep01201/Claw-Kanban) - AI Agent Orchestration Kanban Board. Route tasks to Claude Code, Codex CLI, and Gemini CLI with role-based auto-assignment. ![GitHub stars](https://img.shields.io/github/stars/GreenSheep01201/Claw-Kanban?style=flat-square)
