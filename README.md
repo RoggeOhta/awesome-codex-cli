@@ -123,6 +123,7 @@ Multi-agent orchestration with `.toml` definitions. Codex supports parallel fan-
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Hierarchical agent communication framework. Agents delegate subtasks with context preservation. ![GitHub stars](https://img.shields.io/github/stars/aannoo/hcom?style=flat-square)
 - [obra/external-subagents](https://github.com/obra/external-subagents) - Run subagents as external processes with custom sandboxing. ![GitHub stars](https://img.shields.io/github/stars/obra/external-subagents?style=flat-square)
 - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - Local-first AI agent office simulator. Orchestrates CLI, OAuth, and API-connected agents as a virtual autonomous company. ![GitHub stars](https://img.shields.io/github/stars/GreenSheep01201/claw-empire?style=flat-square)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) — Desktop orchestrator that drives Codex CLI, Claude Code, and Antigravity through plan-based lifecycles with verification gates, self-improving memory, and git worktree isolation. ![GitHub stars](https://img.shields.io/github/stars/Ivy-Interactive/Ivy-Tendril?style=flat-square)
 
 ## Skills
 
