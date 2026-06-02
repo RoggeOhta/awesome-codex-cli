@@ -349,6 +349,7 @@ Tools that bridge Codex with other AI coding agents.
 - [oil-oil/codex](https://github.com/oil-oil/codex) - Claude Code skill for delegating coding tasks to Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/oil-oil/codex?style=flat-square)
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, and Codex - 22 specialists, parallel subagents, persistent sessions. ![GitHub stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=flat-square)
 - [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) - JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex). ![GitHub stars](https://img.shields.io/github/stars/catlog22/Claude-Code-Workflow?style=flat-square)
+- [mishanefedov/skill-issue](https://github.com/mishanefedov/skill-issue) - Lint *why a skill won't fire*: grade each SKILL.md's name+description A–F on whether the agent will pick it, simulate which skill a prompt triggers, and flag collisions where one skill silently shadows another. Offline heuristic, exits non-zero in CI. ![GitHub stars](https://img.shields.io/github/stars/mishanefedov/skill-issue?style=flat-square)
 
 ## Monitoring & Analytics
 
