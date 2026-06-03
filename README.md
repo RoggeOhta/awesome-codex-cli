@@ -131,6 +131,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 ### Collections
 
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - 38 skills across dev tools, productivity, communication, data analysis. Heavy Composio integration for 1000+ SaaS apps. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-codex-skills?style=flat-square)
+- [simongonzalezdc/codex-small-business-skills](https://github.com/simongonzalezdc/codex-small-business-skills) - Apache-2.0 Codex port of Anthropic's Small Business skills: 31 owner-operator workflows for cash flow, invoices, CRM, support, marketing, hiring, and weekly rhythm. ![GitHub stars](https://img.shields.io/github/stars/simongonzalezdc/codex-small-business-skills?style=flat-square)
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Cross-platform skills that work in Codex, Claude Code, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills?style=flat-square)
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - Platform-agnostic skills organized by use case. ![GitHub stars](https://img.shields.io/github/stars/Prat011/awesome-llm-skills?style=flat-square)
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - Community-driven skill marketplace with quality ratings. ![GitHub stars](https://img.shields.io/github/stars/skillmatic-ai/awesome-agent-skills?style=flat-square)
