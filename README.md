@@ -232,6 +232,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [agency-ai-solutions/openai-codex-mcp](https://github.com/agency-ai-solutions/openai-codex-mcp) - Full-featured Codex MCP bridge with streaming support. ![GitHub stars](https://img.shields.io/github/stars/agency-ai-solutions/openai-codex-mcp?style=flat-square)
 - [Leonard013/BigBrain](https://github.com/Leonard013/BigBrain) - MCP server that lets Claude Code talk to Codex (OpenAI) and Gemini (Google) CLIs for free. ![GitHub stars](https://img.shields.io/github/stars/Leonard013/BigBrain?style=flat-square)
 - [ching-kuo/claude-codex](https://github.com/ching-kuo/claude-codex) - Claude Code workflow integrating Codex as an MCP server - plan, implement, and review loops with smart routing. ![GitHub stars](https://img.shields.io/github/stars/ching-kuo/claude-codex?style=flat-square)
+- [jackcongmac/claude-codex-bridge](https://github.com/jackcongmac/claude-codex-bridge) - Bidirectional Claude Code ↔ Codex MCP bridge with persistent Claude colleague sessions and shared collaboration files. ![GitHub stars](https://img.shields.io/github/stars/jackcongmac/claude-codex-bridge?style=flat-square)
 
 ### General-Purpose MCP
 
