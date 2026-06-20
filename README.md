@@ -350,6 +350,8 @@ Tools that bridge Codex with other AI coding agents.
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, and Codex - 22 specialists, parallel subagents, persistent sessions. ![GitHub stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=flat-square)
 - [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) - JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex). ![GitHub stars](https://img.shields.io/github/stars/catlog22/Claude-Code-Workflow?style=flat-square)
 
+- [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory for Codex CLI and 12 other AI coding tools. SQLite-backed state survives context resets, keeping project context across agents. ![GitHub stars](https://img.shields.io/github/stars/Fmarzochi/EGC?style=flat-square)
+
 ## Monitoring & Analytics
 
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop but for AI coding agents. Monitor Claude Code and Codex CLI sessions, tokens, context window, rate limits in real-time. ![GitHub stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square)
