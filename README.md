@@ -457,6 +457,7 @@ Codex CLI team members and frequent contributors:
 - [@fouadmatin](https://x.com/fouadmatin) - Fouad Matin, Codex team.
 - [@bolinfest](https://x.com/bolinfest) - Bolin Fest, Codex team.
 
+- [Skill Hub](https://skill.442595.xyz/) — 5800+ curated AI Agent Skills for Claude Code, Codex, Cursor, Hermes & more across 22 categories.
 ## Shell & Terminal
 
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - Zsh plugin for AI-powered command completion using Codex. ![GitHub stars](https://img.shields.io/github/stars/tom-doerr/zsh_codex?style=flat-square)
