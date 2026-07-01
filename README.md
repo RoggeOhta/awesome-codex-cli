@@ -224,6 +224,10 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [karad/seiro-mcp](https://github.com/karad/seiro-mcp) - MCP server and skills for autonomous build workflows for visionOS (Swift) apps using Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/karad/seiro-mcp?style=flat-square)
 - [salparadi-labs/brain](https://github.com/salparadi-labs/brain) - Persistent memory MCP server for Codex sessions - stores decisions, tasks, preferences in SQLite. ![GitHub stars](https://img.shields.io/github/stars/salparadi-labs/brain?style=flat-square)
 - [vanthienha199/agent-cost-mcp](https://github.com/vanthienha199/agent-cost-mcp) - MCP server for tracking AI agent costs in real time - per-message spending, budget alerts, visual dashboard. ![GitHub stars](https://img.shields.io/github/stars/vanthienha199/agent-cost-mcp?style=flat-square)
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (including OpenAI Codex) to the Unity Editor and runtime, with 100+ built-in tools. ![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat-square)
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#). ![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/Godot-MCP?style=flat-square)
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar). ![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/Unreal-MCP?style=flat-square)
+- [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP. ![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/GameDev-MCP-Server?style=flat-square)
 
 ### Codex as MCP Server
 
