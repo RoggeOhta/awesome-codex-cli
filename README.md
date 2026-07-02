@@ -186,6 +186,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad PCB design assistant. Proof that skills can go deep into niche domains. ![GitHub stars](https://img.shields.io/github/stars/aklofas/kicad-happy?style=flat-square)
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
+- [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) - YouTube transcripts, video/channel search, and playlist extraction via TranscriptAPI — works from any cloud server, no yt-dlp. ![GitHub stars](https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=flat-square)
 
 ## Plugins
 
