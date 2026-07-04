@@ -187,6 +187,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT-licensed, one-command install.
 ## Plugins
 
 Distributable bundles combining skills + app integrations + MCP servers. Defined in `.codex-plugin/plugin.json`. Browse with `/plugins`.
