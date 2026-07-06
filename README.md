@@ -191,6 +191,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 
 Distributable bundles combining skills + app integrations + MCP servers. Defined in `.codex-plugin/plugin.json`. Browse with `/plugins`.
 
+- [taisly/agent](https://github.com/taisly/agent) - Taisly Agent Kit: Codex plugin bundling a social media posting skill, CLI, and official remote MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook. ![GitHub stars](https://img.shields.io/github/stars/taisly/agent?style=flat-square)
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - The first plugin directory. Lists 12 official + ~20 community plugins with install instructions. ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/awesome-codex-plugins?style=flat-square)
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - Plugin framework with dependency resolution and version management. ![GitHub stars](https://img.shields.io/github/stars/agent-sh/agentsys?style=flat-square)
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow.
