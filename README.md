@@ -384,6 +384,7 @@ Tools that bridge Codex with other AI coding agents.
 
 - [How Codex is Built (Pragmatic Engineer)](https://newsletter.pragmaticengineer.com/p/how-codex-is-built) - Deep technical dive into Codex's architecture. Rust, sandboxing, the TUI. Essential reading.
 - [Dogfood: Codex Builds Codex (Stack Overflow)](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) - How the Codex team uses their own tool. Real-world workflow patterns.
+- [I Gave an A-Share Account to Codex](https://glbai.com/en/posts/codex-built-a-share-quant-strategy/) - Real-world case study of a 24-hour Codex Goal turning an open-ended finance objective into data ingestion, backtests, risk rules, and an open-source strategy.
 - [How Codex Team Uses Their Agent (Every)](https://every.to/podcast/transcript-how-openai-s-codex-team-uses-their-coding-agent) - Transcript of the team discussing daily usage, tips, and antipatterns.
 - [Why Humans are AI's Biggest Bottleneck (Lenny's Newsletter)](https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck) - Broader perspective on AI coding agents, with Codex as a case study.
 - [Apidog: OpenAI Codex CLI](https://apidog.com/blog/openai-codex-cli/) - API-focused guide. Good for integrating Codex into existing toolchains.
