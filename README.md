@@ -368,6 +368,7 @@ Tools that bridge Codex with other AI coding agents.
 - [libops/cli-sandbox](https://github.com/libops/cli-sandbox) - Docker sandbox container for Claude Code, Codex, Gemini CLI, and OpenCode. ![GitHub stars](https://img.shields.io/github/stars/libops/cli-sandbox?style=flat-square)
 - [itscooleric/clide](https://github.com/itscooleric/clide) - Dockerized agentic terminal - Claude Code, Copilot, Codex CLI in one sandboxed container with egress firewall and web terminal. ![GitHub stars](https://img.shields.io/github/stars/itscooleric/clide?style=flat-square)
 - [monkeymonk/agentbox](https://github.com/monkeymonk/agentbox) - Runtime manager for AI coding tools (including Codex) in isolated Docker containers - network filtering, config layering, context injection. ![GitHub stars](https://img.shields.io/github/stars/monkeymonk/agentbox?style=flat-square)
+- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) - Local-first security harness that intercepts tool calls before files change or network is contacted. Pre-tool hooks, approval center, supply-chain advisory scanning. Supports Codex, Claude Code, Cursor, Gemini, Copilot CLI, Hermes, and OpenCode. ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=flat-square)
 
 ## Account & Auth
 
