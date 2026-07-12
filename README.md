@@ -275,6 +275,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ## Session & Workflow Management
 
+- [Claude + Codex Queue](https://github.com/ravhello/claude-codex-queue) - Local Windows/WSL queue and web dashboard that resumes existing Codex App and Claude Code sessions after usage limits without consuming the next prompt; preserves model, reasoning, sandbox, approval, and prompt order. ![GitHub stars](https://img.shields.io/github/stars/ravhello/claude-codex-queue?style=flat-square)
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex) into self-contained, embeddable HTML replays. ![GitHub stars](https://img.shields.io/github/stars/es617/claude-replay?style=flat-square)
 - [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - Lightweight Python tool to clean AI refusal responses from Codex CLI session files. ![GitHub stars](https://img.shields.io/github/stars/ryfineZ/codex-session-patcher?style=flat-square)
 - [GreenSheep01201/Claw-Kanban](https://github.com/GreenSheep01201/Claw-Kanban) - AI Agent Orchestration Kanban Board. Route tasks to Claude Code, Codex CLI, and Gemini CLI with role-based auto-assignment. ![GitHub stars](https://img.shields.io/github/stars/GreenSheep01201/Claw-Kanban?style=flat-square)
