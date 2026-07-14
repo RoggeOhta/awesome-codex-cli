@@ -117,6 +117,7 @@ Multi-agent orchestration with `.toml` definitions. Codex supports parallel fan-
 
 ### Multi-Agent Orchestration
 
+- [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Free desktop control plane for autonomous Codex teams with Kanban task management, inter-agent messaging, and peer review; also supports Claude Code, OpenCode, Cursor, and 75+ model providers. ![GitHub stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=flat-square)
 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents - plans tasks, spawns agents, handles CI fixes and merge conflicts autonomously. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator?style=flat-square)
 - [mco-org/mco](https://github.com/mco-org/mco) - Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code. Works from any IDE or shell. ![GitHub stars](https://img.shields.io/github/stars/mco-org/mco?style=flat-square)
 - [basilisk-labs/codex-swarm](https://github.com/basilisk-labs/codex-swarm) - Swarm intelligence pattern - multiple Codex agents collaborating on large refactors. ![GitHub stars](https://img.shields.io/github/stars/basilisk-labs/codex-swarm?style=flat-square)
