@@ -95,6 +95,7 @@ Project-level instruction files that tell Codex how to work with your codebase -
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - The open AGENTS.md specification under Linux Foundation. 60k+ adopting projects. ![GitHub stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square)
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) - Curated list of real-world AGENTS.md files, templates, guides, and tools for Codex-based agents. ![GitHub stars](https://img.shields.io/github/stars/Ischca/awesome-agents-md?style=flat-square)
 - [danielrosehill/Agents.md-Templates](https://github.com/danielrosehill/Agents.md-Templates) - Collection of AGENTS.md templates following the standard suggested by OpenAI. ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Agents.md-Templates?style=flat-square)
+- [UIZZE Codex UI Finish Gate](https://github.com/samuelbushi/uizze-codex-ui-finish-gate) - Dependency-free five-state billing UI challenge with an AGENTS.md contract, fail-closed verifier, and rendered-evidence checklist. [Optional UIZZE reference workflow](https://uizze.com/?view=agent&utm_source=awesome-codex-cli&utm_medium=directory&utm_campaign=github-awesome-codex-cli-finish-gate&utm_content=agents-md-template). ![GitHub stars](https://img.shields.io/github/stars/samuelbushi/uizze-codex-ui-finish-gate?style=flat-square)
 
 ## Subagents
 
