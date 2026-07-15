@@ -146,6 +146,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 
 ### Specialized Skills
 
+- [navig-me/local-marketing](https://github.com/navig-me/local-marketing) - Interviews you about your product and ICP, researches your market, then scores and drafts outreach sequences to prospects you curate. Nothing sends until you approve it. SQLite-backed, no hosted CRM. ![GitHub stars](https://img.shields.io/github/stars/navig-me/local-marketing?style=flat-square)
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any codebase into an interactive knowledge graph you can explore, search, and query. Multi-platform including Codex. ![GitHub stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square)
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS - lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, experiment automation. ![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square)
 - [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skills framework built on battle-tested methods for Claude Code, Codex, and AI agents. ![GitHub stars](https://img.shields.io/github/stars/deanpeters/Product-Manager-Skills?style=flat-square)
