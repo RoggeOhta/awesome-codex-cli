@@ -57,6 +57,7 @@ If you find this useful, please give it a star - it helps others discover the li
 - [Documentation](https://developers.openai.com/codex) - Official docs covering setup, config, security, and all features.
 - [Config Reference](https://developers.openai.com/codex/config-reference) - All 85+ config properties for `config.toml`.
 - [Skills Docs](https://developers.openai.com/codex/skills) - How to create and use SKILL.md files.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 - [Subagents Docs](https://developers.openai.com/codex/subagents) - Multi-agent orchestration with `.toml` agent definitions.
 - [Plugins Docs](https://developers.openai.com/codex/plugins) - Distributable bundles of skills + apps + MCP servers.
 - [MCP Docs](https://developers.openai.com/codex/mcp) - Using Codex as MCP client and server.
