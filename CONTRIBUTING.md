@@ -4,7 +4,7 @@ Thank you for contributing to Awesome Codex CLI!
 
 ## How to Contribute
 
-1. **Found a great resource?** [Open an issue](https://github.com/user/awesome-codex-cli/issues/new) with the link and a brief description of why it's awesome.
+1. **Found a great resource?** [Open an issue](https://github.com/RoggeOhta/awesome-codex-cli/issues/new) with the link and a brief description of why it's awesome.
 2. **Want to add it yourself?** Fork, edit `README.md`, and submit a PR.
 
 ## Quality Standards
