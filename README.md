@@ -254,6 +254,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ## GUI & Desktop Apps
 
+- [fizzy718/AgentMicro](https://github.com/fizzy718/AgentMicro) - Local-first macOS menu bar companion for live status across parallel Codex Desktop and CLI tasks; jump back to the matching Desktop conversation in one click. ![GitHub stars](https://img.shields.io/github/stars/fizzy718/AgentMicro?style=flat-square)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop all-in-one assistant for Claude Code, Codex, OpenCode, OpenClaw, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web and mobile UI for Claude Code and Codex. Launch sessions, stream responses, approve tools from browser/mobile. ![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/companion?style=flat-square)
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - Desktop manager for Codex CLI with task management and batch processing. ![GitHub stars](https://img.shields.io/github/stars/cnlimiter/codex-manager?style=flat-square)
