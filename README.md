@@ -476,6 +476,7 @@ Codex CLI team members and frequent contributors:
 - [ShunmeiCho/cc-clip](https://github.com/ShunmeiCho/cc-clip) - Paste images into remote Claude Code and Codex CLI over SSH. Clipboard bridging for macOS and Windows. ![GitHub stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square)
 - [chuvadenovembro/script-to-use-codex-cli-on-remote-server](https://github.com/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment) - Headless server setup guide with auth workarounds. ![GitHub stars](https://img.shields.io/github/stars/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment?style=flat-square)
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, Git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
+- [godfaddaai/multiplayer-ai](https://github.com/godfaddaai/multiplayer-ai) - Terminal-native collaboration over Tailscale for explicitly shared Codex and Claude Code sessions, with attributed teammate prompts and host-controlled access. ![GitHub stars](https://img.shields.io/github/stars/godfaddaai/multiplayer-ai?style=flat-square)
 
 ---
 
