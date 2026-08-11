@@ -174,6 +174,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 
 ### Skills Management
 
+- [stratless-ai/stratless](https://github.com/stratless-ai/stratless) - Generates skills from the user's own Codex and Claude Code session history - measured locally, each skill citing the evidence counts that earned it; installs into the native skills directory on a typed yes. ![GitHub stars](https://img.shields.io/github/stars/stratless-ai/stratless?style=flat-square)
 - [Shpigford/chops](https://github.com/Shpigford/chops) - macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, and more. ![GitHub stars](https://img.shields.io/github/stars/Shpigford/chops?style=flat-square)
 - [runkids/skillshare](https://github.com/runkids/skillshare) - CLI to sync skills across 55+ AI CLI tools from a single source. Security-audited Go binary. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=flat-square)
 - [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) - macOS SwiftUI app to manage local Codex and Claude Code skills. Browse and download from Clawdhub. ![GitHub stars](https://img.shields.io/github/stars/Dimillian/CodexSkillManager?style=flat-square)
