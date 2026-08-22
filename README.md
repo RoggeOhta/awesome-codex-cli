@@ -351,6 +351,7 @@ Tools that bridge Codex with other AI coding agents.
 - [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) - JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex). ![GitHub stars](https://img.shields.io/github/stars/catlog22/Claude-Code-Workflow?style=flat-square)
 
 ## Monitoring & Analytics
+- [NextReset](https://nextreset.org/en/) - Monitor public Codex quota-reset signals, separate confirmed reset reports from forecasts, and review source history.
 
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop but for AI coding agents. Monitor Claude Code and Codex CLI sessions, tokens, context window, rate limits in real-time. ![GitHub stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square)
 - [fahd09/watchtower](https://github.com/fahd09/watchtower) - Monitor, inspect, and debug all API traffic between AI coding agents and their APIs with a real-time web dashboard. ![GitHub stars](https://img.shields.io/github/stars/fahd09/watchtower?style=flat-square)
