@@ -95,6 +95,7 @@ Project-level instruction files that tell Codex how to work with your codebase -
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - The open AGENTS.md specification under Linux Foundation. 60k+ adopting projects. ![GitHub stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square)
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) - Curated list of real-world AGENTS.md files, templates, guides, and tools for Codex-based agents. ![GitHub stars](https://img.shields.io/github/stars/Ischca/awesome-agents-md?style=flat-square)
 - [danielrosehill/Agents.md-Templates](https://github.com/danielrosehill/Agents.md-Templates) - Collection of AGENTS.md templates following the standard suggested by OpenAI. ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Agents.md-Templates?style=flat-square)
+- [3900563672/ai-contributing](https://github.com/3900563672/ai-contributing) - Zero-runtime governance scaffold for parallel AI agents: generates AGENTS.md + gates, claim-based task market, GATE-1..6 CI, auto-merge. Install via npx, bootstrap, or Codex/Claude marketplaces. ![GitHub stars](https://img.shields.io/github/stars/3900563672/ai-contributing?style=flat-square)
 
 ## Subagents
 
