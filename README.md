@@ -180,6 +180,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - Cross-platform desktop app (Tauri 2.0 + React 19 + Rust) for managing skills across multiple AI tools. ![GitHub stars](https://img.shields.io/github/stars/jiweiyeah/Skills-Manager?style=flat-square)
 - [DargonLee/skill-switch](https://github.com/DargonLee/skill-switch) - Cross-platform desktop app for managing AI tool skill files - unified interface for Codex CLI, Claude Code, Gemini CLI, Cursor. ![GitHub stars](https://img.shields.io/github/stars/DargonLee/skill-switch?style=flat-square)
 - [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) - Security-audited skills marketplace. One-click install with automated security analysis. ![GitHub stars](https://img.shields.io/github/stars/aiskillstore/marketplace?style=flat-square)
+- [yourconscience/dotagents](https://github.com/yourconscience/dotagents) - Go CLI that keeps one `~/.agents` repo (skills, MCP servers, hooks, agent roles, root instructions) synced natively into Codex, Claude Code, OMP/Pi, OpenCode, Droid, and Hermes. Commit-pinned and audited external skills. ![GitHub stars](https://img.shields.io/github/stars/yourconscience/dotagents?style=flat-square)
 
 ### Domain-Specific Skills
 
