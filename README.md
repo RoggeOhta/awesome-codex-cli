@@ -130,6 +130,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 
 ### Collections
 
+- [EyrieCommander/codex-skills](https://github.com/EyrieCommander/codex-skills) - Field-tested Codex skills for repairing broken task history, keeping long-running installations fast, relinking moved workspaces, and handling reusable research, writing, media, and source-intake workflows. ![GitHub stars](https://img.shields.io/github/stars/EyrieCommander/codex-skills?style=flat-square)
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - 38 skills across dev tools, productivity, communication, data analysis. Heavy Composio integration for 1000+ SaaS apps. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-codex-skills?style=flat-square)
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Cross-platform skills that work in Codex, Claude Code, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills?style=flat-square)
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - Platform-agnostic skills organized by use case. ![GitHub stars](https://img.shields.io/github/stars/Prat011/awesome-llm-skills?style=flat-square)
