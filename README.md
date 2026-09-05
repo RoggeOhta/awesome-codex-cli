@@ -196,7 +196,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow.
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
-- [TMCRA Local Memory](https://github.com/reshuibuduo/tmcra-plugin-codex) - Automatic Codex memory with account-global and project recall, role-separated writeback, lifecycle checkpoints, durable retry, and local Writer and organizer model settings. ![GitHub stars](https://img.shields.io/github/stars/reshuibuduo/tmcra-plugin-codex?style=flat-square)
+- [TMCRA Local Memory](https://github.com/reshuibuduo/tmcra-plugin-codex) - Automatic Codex project memory with a visual knowledge workspace, chat-confirmed corrections, session controls, local model settings, and an account-free Windows local installation preview. ![GitHub stars](https://img.shields.io/github/stars/reshuibuduo/tmcra-plugin-codex?style=flat-square)
 
 ## Hooks
 
