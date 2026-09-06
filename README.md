@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/resources-270-blue" alt="Resources">
+  <img src="https://img.shields.io/badge/resources-271-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
@@ -16,7 +16,7 @@
 
 Codex CLI is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line - with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
 
-**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **270 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **271 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
 
 **Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
 
@@ -303,6 +303,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 Codex supports `openai_base_url` for custom model providers. Use any OpenAI-compatible API.
 
+- [RomaCredit/codex-provider-switcher](https://github.com/RomaCredit/codex-provider-switcher) - Switch local provider profiles and align Codex Desktop history metadata, with backups before changes. ![GitHub stars](https://img.shields.io/github/stars/RomaCredit/codex-provider-switcher?style=flat-square)
 - [feiskyer/codex-settings](https://github.com/feiskyer/codex-settings) - Ready-to-use configs for LiteLLM, Ollama, LM Studio, OpenRouter, and Azure OpenAI. ![GitHub stars](https://img.shields.io/github/stars/feiskyer/codex-settings?style=flat-square)
 - [teabranch/open-responses-server](https://github.com/teabranch/open-responses-server) - OpenAI Responses API-compatible server. Run Codex with local models. ![GitHub stars](https://img.shields.io/github/stars/teabranch/open-responses-server?style=flat-square)
 - [ben-vargas/ai-sdk-provider-codex-cli](https://github.com/ben-vargas/ai-sdk-provider-codex-cli) - Vercel AI SDK provider for Codex. Use Codex in your AI applications. ![GitHub stars](https://img.shields.io/github/stars/ben-vargas/ai-sdk-provider-codex-cli?style=flat-square)
