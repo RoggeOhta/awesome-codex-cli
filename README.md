@@ -385,6 +385,7 @@ Tools that bridge Codex with other AI coding agents.
 - [bddiudiu/cpa-codex-auth-sweep-cliproxy](https://github.com/bddiudiu/cpa-codex-auth-sweep-cliproxy) - Auth proxy for enterprise SSO environments. ![GitHub stars](https://img.shields.io/github/stars/bddiudiu/cpa-codex-auth-sweep-cliproxy?style=flat-square)
 - [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth) - CLI to switch and manage multiple Codex accounts with usage stats and automatic switching. ![GitHub stars](https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square)
 - [burakdede/aisw](https://github.com/burakdede/aisw) - AI Switcher (aisw) - CLI utility to manage multiple accounts for Claude Code, Codex CLI, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/burakdede/aisw?style=flat-square)
+- [frndchagas/codex-account](https://github.com/frndchagas/codex-account) - Switch between Codex accounts without signing out - never revokes tokens, so every account and its browser session stay signed in, and refreshed tokens are synced back into profiles. Single-file bash. ![GitHub stars](https://img.shields.io/github/stars/frndchagas/codex-account?style=flat-square)
 
 ## Tutorials & Articles
 
