@@ -143,6 +143,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - Skills, memory, security checks, and workflow configuration for Codex and other coding agents. ![GitHub stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square)
 - [simota/agent-skills](https://github.com/simota/agent-skills) - 100+ specialized AI agent skills for Claude Code / Codex CLI / Gemini CLI - dev, security, design, FinOps, compliance, testing. ![GitHub stars](https://img.shields.io/github/stars/simota/agent-skills?style=flat-square)
 - [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills) - Curated list of agent skills and tools for Claude Code, Codex, Gemini CLI, GitHub Copilot, and more. ![GitHub stars](https://img.shields.io/github/stars/gmh5225/awesome-skills?style=flat-square)
+- [Lrinvl1203/world-class-web-design-os](https://github.com/Lrinvl1203/world-class-web-design-os) - Evidence-led Codex web-design workflow with 17 routed skills, independent critique, responsive browser QA, and a one-line installer. ![GitHub stars](https://img.shields.io/github/stars/Lrinvl1203/world-class-web-design-os?style=flat-square)
 
 ### Specialized Skills
 
