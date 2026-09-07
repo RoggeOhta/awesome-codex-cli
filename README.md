@@ -184,6 +184,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 
 ### Domain-Specific Skills
 
+- [KKK25843/wechat-mp-downloader-skill](https://github.com/KKK25843/wechat-mp-downloader-skill) - Codex-native workflow for archiving 1-20 WeChat Official Accounts over a date range as Markdown with local images, title filters, resumable state, and no cookie export. ![GitHub stars](https://img.shields.io/github/stars/KKK25843/wechat-mp-downloader-skill?style=flat-square)
 - [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad PCB design assistant. Proof that skills can go deep into niche domains. ![GitHub stars](https://img.shields.io/github/stars/aklofas/kicad-happy?style=flat-square)
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
