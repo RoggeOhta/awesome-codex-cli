@@ -439,6 +439,7 @@ Tools that bridge Codex with other AI coding agents.
 - [Hacker News Discussion](https://news.ycombinator.com/item?id=43708025) - Community comparison thread with real-world experiences.
 - [Reddit AMA with Codex Team](https://www.reddit.com/r/ChatGPT/comments/1ko3tp1/ama_with_openai_codex_team/) - Team answers questions about design decisions and how Codex differs from alternatives.
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Side-by-side benchmark of terminal AI agents on real coding tasks. ![GitHub stars](https://img.shields.io/github/stars/duanyytop/agents-radar?style=flat-square)
+- [sjh9714/astra-sweetspot](https://github.com/sjh9714/astra-sweetspot) - Codex CLI experiment comparing Astra and Sol settings on two public bugs, with reproducible runs, independent checks, and published patches, timings, and token counts. ![GitHub stars](https://img.shields.io/github/stars/sjh9714/astra-sweetspot?style=flat-square)
 - [Codex vs Claude Code (Builder.io)](https://www.builder.io/blog/codex-vs-claude-code) - Side-by-side comparison with concrete benchmarks and use-case recommendations.
 - [Claude Code vs OpenAI Codex (Northflank)](https://northflank.com/blog/claude-code-vs-openai-codex) - Infrastructure-focused comparison covering deployment scenarios and cloud sandbox use cases.
 - [Claude Code vs Codex vs Gemini Code Assist (Educative)](https://www.educative.io/blog/claude-code-vs-codex-vs-gemini-code-assist) - Three-way comparison covering benchmarks, pricing, IDE integrations, and developer experience.
