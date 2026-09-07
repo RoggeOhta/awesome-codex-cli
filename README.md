@@ -274,6 +274,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [Cocoanetics/CodexMonitor](https://github.com/Cocoanetics/CodexMonitor) - macOS menu bar app to list, inspect, and watch local Codex CLI sessions. Includes VS Code integration. ![GitHub stars](https://img.shields.io/github/stars/Cocoanetics/CodexMonitor?style=flat-square)
 - [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Automated installer to run the OpenAI Codex Desktop app on Linux. ![GitHub stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square)
 - [LZY-Ricardo/AIDevHub](https://github.com/LZY-Ricardo/AIDevHub) - Desktop app (Tauri v2 + Rust + React) for managing MCP server configs and skills of Claude Code and Codex. ![GitHub stars](https://img.shields.io/github/stars/LZY-Ricardo/AIDevHub?style=flat-square)
+- [yange0793-dot/CodexContextBar](https://github.com/yange0793-dot/CodexContextBar) - Native macOS menu-bar fuel gauge for the Codex context window (CTX ▰▰▱▱▱ 38%) — fullness, not usage stats. 388 lines of Objective-C, zero network, reader asserted against fixture sessions in CI. ![GitHub stars](https://img.shields.io/github/stars/yange0793-dot/CodexContextBar?style=flat-square)
 
 ## Session & Workflow Management
 
