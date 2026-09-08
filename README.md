@@ -318,6 +318,8 @@ Codex supports `openai_base_url` for custom model providers. Use any OpenAI-comp
 
 Use `codex exec` for non-interactive automation in pipelines.
 
+- [kafidog/DoneAudit](https://github.com/kafidog/DoneAudit) - Verifies real test, build, required-check and Git/source evidence for Codex completion claims through a local CLI with a deterministic evidence score and a GitHub Action, without another AI judge. ![GitHub stars](https://img.shields.io/github/stars/kafidog/DoneAudit?style=flat-square)
+
 - [Adashuai5/quota-autopilot](https://github.com/Adashuai5/quota-autopilot) - Schedule background Codex and Claude Code tasks around subscription quota, reset windows, and recent human activity. ![GitHub stars](https://img.shields.io/github/stars/Adashuai5/quota-autopilot?style=flat-square)
 - [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - 35 automation recipes organized by category: code quality, CI/CD, releases, deps, security. ![GitHub stars](https://img.shields.io/github/stars/onurkanbakirci/awesome-codex-automations?style=flat-square)
 
