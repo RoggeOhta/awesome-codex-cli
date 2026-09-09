@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/resources-271-blue" alt="Resources">
+  <img src="https://img.shields.io/badge/resources-272-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
@@ -16,7 +16,7 @@
 
 Codex CLI is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line - with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
 
-**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **271 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **272 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
 
 **Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
 
@@ -207,6 +207,7 @@ User-defined shell scripts that run at specific points in the agentic loop. Requ
 - [shanraisshan/codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) - Starter hooks collection: pre-commit validation, cost tracking, notification triggers. ![GitHub stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat-square)
 - [liewcf/codex-notify-macos](https://github.com/liewcf/codex-notify-macos) - macOS notification hook - get alerted when long-running tasks complete. ![GitHub stars](https://img.shields.io/github/stars/liewcf/codex-notify-macos?style=flat-square)
 - [vcz-Gray/loophaus](https://github.com/vcz-Gray/loophaus) - Cross-platform iterative development loops via Stop hooks. ![GitHub stars](https://img.shields.io/github/stars/vcz-Gray/loophaus?style=flat-square)
+- [arvkonstantin/herdr-codex-subagents](https://github.com/arvkonstantin/herdr-codex-subagents) - Codex plugin that opens a read-only Herdr pane for every native subagent, then automatically tiles and closes viewers throughout the agent lifecycle. ![GitHub stars](https://img.shields.io/github/stars/arvkonstantin/herdr-codex-subagents?style=flat-square)
 
 ## MCP Servers
 
