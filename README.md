@@ -83,12 +83,14 @@ If you find this useful, please give it a star - it helps others discover the li
 - [Medium Quick Setup](https://medium.com/ai-software-engineer/how-to-install-and-use-openai-codex-cli-in-2-minutes-29e9fdd0e8c5) - 2-minute install-to-first-prompt guide. No fluff.
 - [OpenReplay Integration Guide](https://blog.openreplay.com/integrate-openais-codex-cli-tool-development-workflow/) - How to weave Codex into an existing dev workflow.
 - [Machine Learning Mastery](https://machinelearningmastery.com/understanding-openai-codex-cli-commands/) - Command reference with examples for each mode.
+- [Codex First Task Prompt Generator](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/codex-first-task-prompt-generator.html) - Free tool that turns a Codex CLI project goal into a scoped first-task prompt with constraints and acceptance checks.
 
 ## AGENTS.md Templates
 
 Project-level instruction files that tell Codex how to work with your codebase - the equivalent of Claude Code's `CLAUDE.md`.
 
 - [agents.md (Open Standard)](https://agents.md) - The cross-agent standard used by 20k+ projects. Works with Codex, Claude Code, Gemini CLI, and more.
+- [AGENTS.md Generator for Codex CLI](https://github.com/Ronnie2025/codex-agents-md-generator) - Free browser tool that generates project-level AGENTS.md files with commands, file boundaries, safety rules, and acceptance checks. ![GitHub stars](https://img.shields.io/github/stars/Ronnie2025/codex-agents-md-generator?style=flat-square)
 - [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) - Battle-tested AGENTS.md patterns with sandbox mode recommendations and approval policies. ![GitHub stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat-square)
 - [claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Dual AGENTS.md + CLAUDE.md setup for teams running both agents side-by-side. ![GitHub stars](https://img.shields.io/github/stars/fcakyon/claude-codex-settings?style=flat-square)
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - Cross-tool config generator - outputs AGENTS.md, CLAUDE.md, and .cursorrules from one source. ![GitHub stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup?style=flat-square)
