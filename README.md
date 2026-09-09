@@ -214,6 +214,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ### Codex as MCP Client
 
+- [wuisabel-gif/MemWhale](https://github.com/wuisabel-gif/MemWhale) - Local-first terminal memory that records commands, output, errors, and fixes in SQLite and exposes searchable context through an MCP server. ![GitHub stars](https://img.shields.io/github/stars/wuisabel-gif/MemWhale?style=flat-square)
 - [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) - General-purpose MCP server for Codex with file operations, web search, and database queries. ![GitHub stars](https://img.shields.io/github/stars/tuannvm/codex-mcp-server?style=flat-square)
 - [FYZAFH/mcp-codex-dev](https://github.com/FYZAFH/mcp-codex-dev) - Development-focused MCP server: linting, testing, deployment tools. ![GitHub stars](https://img.shields.io/github/stars/FYZAFH/mcp-codex-dev?style=flat-square)
 - [cexll/codex-mcp-server](https://github.com/cexll/codex-mcp-server) - Lightweight MCP server with minimal dependencies. Good starting point for custom servers. ![GitHub stars](https://img.shields.io/github/stars/cexll/codex-mcp-server?style=flat-square)
