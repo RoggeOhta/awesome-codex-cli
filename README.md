@@ -320,6 +320,7 @@ Use `codex exec` for non-interactive automation in pipelines.
 
 - [Adashuai5/quota-autopilot](https://github.com/Adashuai5/quota-autopilot) - Schedule background Codex and Claude Code tasks around subscription quota, reset windows, and recent human activity. ![GitHub stars](https://img.shields.io/github/stars/Adashuai5/quota-autopilot?style=flat-square)
 - [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - 35 automation recipes organized by category: code quality, CI/CD, releases, deps, security. ![GitHub stars](https://img.shields.io/github/stars/onurkanbakirci/awesome-codex-automations?style=flat-square)
+- [grnbtqdbyx-create/trace-to-skill](https://github.com/grnbtqdbyx-create/trace-to-skill) - Codex readiness and agent-learning CI gate that turns failed runs into AGENTS.md rules, evals, PR comments, and prompt-injection checks. ![GitHub stars](https://img.shields.io/github/stars/grnbtqdbyx-create/trace-to-skill?style=flat-square)
 
 
 ### Patterns
