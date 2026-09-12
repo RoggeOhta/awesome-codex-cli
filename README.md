@@ -117,6 +117,7 @@ Multi-agent orchestration with `.toml` definitions. Codex supports parallel fan-
 
 ### Multi-Agent Orchestration
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops
 - [RBraga01/a-team](https://github.com/RBraga01/a-team) - Specialist agents and workflow skills for planning, implementation, and review, with Codex integration. ![GitHub stars](https://img.shields.io/github/stars/RBraga01/a-team?style=flat-square)
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agentic orchestrator for parallel coding agents - plans tasks, spawns agents, handles CI fixes and merge conflicts autonomously. ![GitHub stars](https://img.shields.io/github/stars/Untrivial-ai/agent-orchestrator?style=flat-square)
 - [mco-org/mco](https://github.com/mco-org/mco) - Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code. Works from any IDE or shell. ![GitHub stars](https://img.shields.io/github/stars/mco-org/mco?style=flat-square)
