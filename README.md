@@ -277,6 +277,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ## Session & Workflow Management
 
+- [Kanevry/session-orchestrator](https://github.com/Kanevry/session-orchestrator) - MIT-licensed workflow plugin for Codex CLI that plans from repository issues, runs scoped work in checked waves, and preserves session state for resuming unfinished work. ![GitHub stars](https://img.shields.io/github/stars/Kanevry/session-orchestrator?style=flat-square)
 - [miniLV/coding-agent-memory](https://github.com/miniLV/coding-agent-memory) - Compile local Codex and Claude Code sessions into an auditable Markdown wiki with a retrieval skill and Codex App automations. ![GitHub stars](https://img.shields.io/github/stars/miniLV/coding-agent-memory?style=flat-square)
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - LoopGate runs Codex and other coding agents through repeated tasks with repository specs, commit gates, and quality checks. ![GitHub stars](https://img.shields.io/github/stars/rxdt/loopgate_harness?style=flat-square)
 - [kunal12203/GrapeRoot](https://github.com/kunal12203/GrapeRoot) - Persistent context and a code knowledge graph for coding agents, with a Codex CLI launcher. ![GitHub stars](https://img.shields.io/github/stars/kunal12203/GrapeRoot?style=flat-square)
