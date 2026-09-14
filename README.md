@@ -146,6 +146,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 
 ### Specialized Skills
 
+- [SurefireStudios/tldr](https://github.com/SurefireStudios/tldr) - Leads every response with a three-line TL;DR and folds the full detail underneath, so the answer is not buried. Never folds destructive commands, security findings, verbatim errors or diffs. Returns a parseable block for agent-to-agent reports. Works with Codex, Claude Code, Cursor and 17 more. ![GitHub stars](https://img.shields.io/github/stars/SurefireStudios/tldr?style=flat-square)
 - [Cpp1022/concise](https://github.com/Cpp1022/concise) - Chinese-first instructions for concise Codex replies, with a shared SKILL.md rule source. ![GitHub stars](https://img.shields.io/github/stars/Cpp1022/concise?style=flat-square)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Turn any codebase into an interactive knowledge graph you can explore, search, and query. Multi-platform including Codex. ![GitHub stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=flat-square)
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS - lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, experiment automation. ![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square)
