@@ -376,6 +376,7 @@ Tools that bridge Codex with other AI coding agents.
 
 ## Account & Auth
 
+- [moonsunkim/codexmulti](https://github.com/moonsunkim/codexmulti) - Native macOS menu-bar app for Codex account usage tracking and local failover on confirmed usage-limit errors; Apple Silicon, macOS 26+. ![GitHub stars](https://img.shields.io/github/stars/moonsunkim/codexmulti?style=flat-square)
 - [Ducksss/codex-profiles](https://github.com/Ducksss/codex-profiles) - Run Codex CLI with named CODEX_HOME profiles that keep account configuration and local session state separate. ![GitHub stars](https://img.shields.io/github/stars/Ducksss/codex-profiles?style=flat-square)
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - Universal AI IDE account manager for Codex, GitHub Copilot, Windsurf, Kiro, Cursor, Gemini CLI. Multi-account switching, quota monitoring. ![GitHub stars](https://img.shields.io/github/stars/jlcodes99/cockpit-tools?style=flat-square)
 - [qxcnm/Codex-Manager](https://github.com/qxcnm/Codex-Manager) - Codex CLI account management and switching tool with local gateway forwarding. ![GitHub stars](https://img.shields.io/github/stars/qxcnm/Codex-Manager?style=flat-square)
