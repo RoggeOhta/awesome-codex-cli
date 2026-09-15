@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/resources-271-blue" alt="Resources">
+  <img src="https://img.shields.io/badge/resources-272-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
@@ -16,7 +16,7 @@
 
 Codex CLI is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line - with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
 
-**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **271 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **272 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
 
 **Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
 
@@ -385,6 +385,7 @@ Tools that bridge Codex with other AI coding agents.
 - [bddiudiu/cpa-codex-auth-sweep-cliproxy](https://github.com/bddiudiu/cpa-codex-auth-sweep-cliproxy) - Auth proxy for enterprise SSO environments. ![GitHub stars](https://img.shields.io/github/stars/bddiudiu/cpa-codex-auth-sweep-cliproxy?style=flat-square)
 - [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth) - CLI to switch and manage multiple Codex accounts with usage stats and automatic switching. ![GitHub stars](https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square)
 - [burakdede/aisw](https://github.com/burakdede/aisw) - AI Switcher (aisw) - CLI utility to manage multiple accounts for Claude Code, Codex CLI, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/burakdede/aisw?style=flat-square)
+- [Kweiza/ccdaddy](https://github.com/Kweiza/ccdaddy) - Quota-aware account manager for Codex CLI and Claude Code with a terminal dashboard, automatic account rotation, and a local proxy for ongoing Codex sessions. ![GitHub stars](https://img.shields.io/github/stars/Kweiza/ccdaddy?style=flat-square)
 
 ## Tutorials & Articles
 
