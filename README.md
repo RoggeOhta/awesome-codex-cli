@@ -187,6 +187,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad PCB design assistant. Proof that skills can go deep into niche domains. ![GitHub stars](https://img.shields.io/github/stars/aklofas/kicad-happy?style=flat-square)
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
+- [YujxZJCN/teaching-skills-codex](https://github.com/YujxZJCN/teaching-skills-codex) - University teaching lifecycle for professors: backward course design, blueprint-first exams, submission auditing, and learner analysis. 15 skills, one Codex suite. ![GitHub stars](https://img.shields.io/github/stars/YujxZJCN/teaching-skills-codex?style=flat-square)
 
 ## Plugins
 
