@@ -356,6 +356,7 @@ Tools that bridge Codex with other AI coding agents.
 - [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) - Workflow orchestration with Codex and other CLI backends; successor to the archived Claude Code Workflow. ![GitHub stars](https://img.shields.io/github/stars/catlog22/maestro-flow?style=flat-square)
 
 ## Monitoring & Analytics
+- [NextReset](https://nextreset.org/en/) - Monitor public Codex quota-reset signals, separate confirmed reset reports from forecasts, and review source history.
 
 - [lorytek/PulseMeter](https://github.com/lorytek/PulseMeter) - Windows tray app showing Codex usage limits, reset credits, and local project usage estimates. ![GitHub stars](https://img.shields.io/github/stars/lorytek/PulseMeter?style=flat-square)
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop but for AI coding agents. Monitor Claude Code and Codex CLI sessions, tokens, context window, rate limits in real-time. ![GitHub stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square)
