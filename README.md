@@ -197,6 +197,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow. ![GitHub stars](https://img.shields.io/github/stars/xmm/codex-bmad-skills?style=flat-square)
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [imgly/codesign](https://github.com/imgly/codesign) - Give Codex a real design engine: get editable, print-ready designs (social posts, flyers, PDFs with bleed) from a prompt, with your brand applied, then open any of them in a built-in editor and fix things by hand. All on your machine. ![GitHub stars](https://img.shields.io/github/stars/imgly/codesign?style=flat-square)
 
 ## Hooks
 
