@@ -253,6 +253,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [smallmain/vscode-unify-chat-provider](https://github.com/smallmain/vscode-unify-chat-provider) - Unify multiple AI agents (Codex, Claude, Copilot) under one VS Code chat interface. ![GitHub stars](https://img.shields.io/github/stars/smallmain/vscode-unify-chat-provider?style=flat-square)
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Neovim AI sidekick supporting Claude, Gemini, Grok, Codex, Copilot CLI and more. Built-in AI terminal. ![GitHub stars](https://img.shields.io/github/stars/folke/sidekick.nvim?style=flat-square)
 - [Haleclipse/Codex-JetBrains](https://github.com/Haleclipse/Codex-JetBrains) - Run VS Code-based coding agents and extensions (including Codex) seamlessly within JetBrains IDEs. ![GitHub stars](https://img.shields.io/github/stars/Haleclipse/Codex-JetBrains?style=flat-square)
+- [devgiordane/openfiles](https://github.com/devgiordane/openfiles) - VS Code extension that opens every file Codex writes so ESLint, TypeScript and other language servers check it, and returns the problems to Codex through a PostToolUse hook that parses apply_patch. ![GitHub stars](https://img.shields.io/github/stars/devgiordane/openfiles?style=flat-square)
 
 ## GUI & Desktop Apps
 
