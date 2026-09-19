@@ -172,6 +172,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - Agent-optimized React Native skills by Callstack: best practices, optimization, upgrade workflows. ![GitHub stars](https://img.shields.io/github/stars/callstackincubator/agent-skills?style=flat-square)
 - [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - LLM-first SEO analysis with 16 sub-skills, 10 specialist agents, and 33 utility scripts. ![GitHub stars](https://img.shields.io/github/stars/Bhanunamikaze/Agentic-SEO-Skill?style=flat-square)
 - [Gitmaxd/deepagents-cli-codex-skill](https://github.com/Gitmaxd/deepagents-cli-codex-skill) - Deep Agents CLI skill - scaffolds Codex skills and launches production subagent pipelines. ![GitHub stars](https://img.shields.io/github/stars/Gitmaxd/deepagents-cli-codex-skill?style=flat-square)
+- [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) - Developer-alpha CLI skill for Codex to discover local skills, PKM notes and encrypted knowledge. ![GitHub stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=flat-square)
 
 ### Skills Management
 
