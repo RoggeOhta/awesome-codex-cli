@@ -207,6 +207,7 @@ User-defined shell scripts that run at specific points in the agentic loop. Requ
 - [shanraisshan/codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) - Starter hooks collection: pre-commit validation, cost tracking, notification triggers. ![GitHub stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat-square)
 - [liewcf/codex-notify-macos](https://github.com/liewcf/codex-notify-macos) - macOS notification hook - get alerted when long-running tasks complete. ![GitHub stars](https://img.shields.io/github/stars/liewcf/codex-notify-macos?style=flat-square)
 - [vcz-Gray/loophaus](https://github.com/vcz-Gray/loophaus) - Cross-platform iterative development loops via Stop hooks. ![GitHub stars](https://img.shields.io/github/stars/vcz-Gray/loophaus?style=flat-square)
+- [greggreg488/agent-guardrails](https://github.com/greggreg488/agent-guardrails) - Safety guardrail hooks with a safe-full-auto layer — PreToolUse + PermissionRequest gates that hard-block rm -rf, force-push, destructive SQL, and payments even under danger-full-access, plus a kill-switch and audit log. Cross-agent (also runs on Claude Code). ![GitHub stars](https://img.shields.io/github/stars/greggreg488/agent-guardrails?style=flat-square)
 
 ## MCP Servers
 
