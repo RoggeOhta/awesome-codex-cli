@@ -118,6 +118,7 @@ Multi-agent orchestration with `.toml` definitions. Codex supports parallel fan-
 ### Multi-Agent Orchestration
 
 - [RBraga01/a-team](https://github.com/RBraga01/a-team) - Specialist agents and workflow skills for planning, implementation, and review, with Codex integration. ![GitHub stars](https://img.shields.io/github/stars/RBraga01/a-team?style=flat-square)
+- [ethanplusai/astra-flash-orchestrator](https://github.com/ethanplusai/astra-flash-orchestrator) - Codex skill that keeps Astra on planning and review while DeepSeek V4.1 Flash handles implementation. ![GitHub stars](https://img.shields.io/github/stars/ethanplusai/astra-flash-orchestrator?style=flat-square)
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agentic orchestrator for parallel coding agents - plans tasks, spawns agents, handles CI fixes and merge conflicts autonomously. ![GitHub stars](https://img.shields.io/github/stars/Untrivial-ai/agent-orchestrator?style=flat-square)
 - [mco-org/mco](https://github.com/mco-org/mco) - Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code. Works from any IDE or shell. ![GitHub stars](https://img.shields.io/github/stars/mco-org/mco?style=flat-square)
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Hierarchical agent communication framework. Agents delegate subtasks with context preservation. ![GitHub stars](https://img.shields.io/github/stars/aannoo/hcom?style=flat-square)
