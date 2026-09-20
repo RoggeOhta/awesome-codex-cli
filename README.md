@@ -337,6 +337,8 @@ codex exec "List all TODO comments" --ephemeral | sort
 
 ## Cross-Agent Tools
 
+- [ruslanlap/loopguard](https://github.com/ruslanlap/loopguard) - Watchdog that tails Codex CLI session transcripts and alerts when the agent loops, oscillates, or stalls — Telegram notifications, zero dependencies. ![GitHub stars](https://img.shields.io/github/stars/ruslanlap/loopguard?style=flat-square)
+
 Tools that bridge Codex with other AI coding agents.
 
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - Universal agent orchestrator. Route tasks between Codex, Claude Code, and Gemini CLI based on model strengths. ![GitHub stars](https://img.shields.io/github/stars/DeepMyst/Mysti?style=flat-square)
