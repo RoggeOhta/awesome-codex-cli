@@ -298,6 +298,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [re-cinq/shift-log](https://github.com/re-cinq/shift-log) - Automatically saves coding agents' conversations in Git Notes. Works with Codex, Claude Code, Gemini CLI, OpenCode. ![GitHub stars](https://img.shields.io/github/stars/re-cinq/shift-log?style=flat-square)
 - [2ue/ccman](https://github.com/2ue/ccman) - Tool for managing Claude Code + Codex API + Gemini CLI + OpenCode service provider configurations. ![GitHub stars](https://img.shields.io/github/stars/2ue/ccman?style=flat-square)
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search local coding agent session history across 11+ providers including Codex. ![GitHub stars](https://img.shields.io/github/stars/Dicklesworthstone/coding_agent_session_search?style=flat-square)
+- [prajwalgajakesari/agent-sessions](https://github.com/prajwalgajakesari/agent-sessions) - Share Codex, Claude Code and OpenCode sessions with your team through git: push a redacted transcript plus handoff summary into the repo, pull it into any agent's chat. ![GitHub stars](https://img.shields.io/github/stars/prajwalgajakesari/agent-sessions?style=flat-square)
 
 ## Model Providers & Proxies
 
