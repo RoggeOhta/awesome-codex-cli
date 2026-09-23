@@ -235,6 +235,8 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ### General-Purpose MCP
 
+- [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: https://statsnet.co/mcp ![GitHub stars](https://img.shields.io/github/stars/usenetstate/statsnet-mcp?style=flat-square)
+
 - [sandbaseai/cli](https://github.com/sandbaseai/cli) - Connect Codex to model and API discovery, schema inspection, and execution through a local MCP bridge; free starter credits, then usage-based billing. ![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=flat-square)
 - [alexanderclapp/clirank-mcp-server](https://github.com/alexanderclapp/clirank-mcp-server) - API discovery and comparison MCP server with documented Codex setup and agent-readable integration guides. ![GitHub stars](https://img.shields.io/github/stars/alexanderclapp/clirank-mcp-server?style=flat-square)
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) - Connect Codex to NotebookLM for research-augmented coding. ![GitHub stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
