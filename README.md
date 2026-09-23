@@ -207,6 +207,7 @@ User-defined shell scripts that run at specific points in the agentic loop. Requ
 - [shanraisshan/codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) - Starter hooks collection: pre-commit validation, cost tracking, notification triggers. ![GitHub stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat-square)
 - [liewcf/codex-notify-macos](https://github.com/liewcf/codex-notify-macos) - macOS notification hook - get alerted when long-running tasks complete. ![GitHub stars](https://img.shields.io/github/stars/liewcf/codex-notify-macos?style=flat-square)
 - [vcz-Gray/loophaus](https://github.com/vcz-Gray/loophaus) - Cross-platform iterative development loops via Stop hooks. ![GitHub stars](https://img.shields.io/github/stars/vcz-Gray/loophaus?style=flat-square)
+- [DevinoSolutions/anotifier-for-claude-codex-cursor](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) - Desktop toast, ntfy phone push or webhook the moment Codex finishes a turn or asks for approval; one config also covers Claude Code, Cursor and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/DevinoSolutions/anotifier-for-claude-codex-cursor?style=flat-square)
 
 ## MCP Servers
 
