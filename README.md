@@ -313,6 +313,7 @@ Codex supports `openai_base_url` for custom model providers. Use any OpenAI-comp
 - [lzjever/air-gapped](https://github.com/lzjever/air-gapped) - Portable Codex CLI + vLLM for air-gapped/offline use. ![GitHub stars](https://img.shields.io/github/stars/lzjever/air-gapped?style=flat-square)
 - [maksimzayats/acodex](https://github.com/maksimzayats/acodex) - Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items). ![GitHub stars](https://img.shields.io/github/stars/maksimzayats/acodex?style=flat-square)
 - [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) - Lightweight local relay that converts Codex Desktop's Responses API to multiple protocol interfaces (OpenAI, Anthropic, Gemini). ![GitHub stars](https://img.shields.io/github/stars/icebear0828/codex-proxy?style=flat-square)
+- [swobuforge/swobu](https://github.com/swobuforge/swobu) - Local AI gateway that routes Codex CLI across providers, regions, accounts, and local models via an OpenAI-compatible `openai_base_url` endpoint, with failover. ![GitHub stars](https://img.shields.io/github/stars/swobuforge/swobu?style=flat-square)
 
 ## CI/CD & Automation
 
