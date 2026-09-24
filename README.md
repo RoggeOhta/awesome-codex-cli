@@ -476,6 +476,7 @@ Codex CLI team members and frequent contributors:
 
 - [PleasePrompto/ductor](https://github.com/PleasePrompto/ductor) - Control Claude Code, Codex CLI, and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. ![GitHub stars](https://img.shields.io/github/stars/PleasePrompto/ductor?style=flat-square)
 - [K9i-0/ccpocket](https://github.com/K9i-0/ccpocket) - Access Codex from mobile devices via web UI. ![GitHub stars](https://img.shields.io/github/stars/K9i-0/ccpocket?style=flat-square)
+- [makorise/codex-local-hub](https://github.com/makorise/codex-local-hub) - Local-first macOS host and phone browser dashboard for monitoring and steering existing Codex Desktop tasks over a trusted LAN, without a cloud relay. ![GitHub stars](https://img.shields.io/github/stars/makorise/codex-local-hub?style=flat-square)
 - [MackDing/CodexClaw](https://github.com/MackDing/CodexClaw) - Telegram bot that proxies commands to a remote Codex instance. ![GitHub stars](https://img.shields.io/github/stars/MackDing/CodexClaw?style=flat-square)
 - [demoadminjie/codex-wechat](https://github.com/demoadminjie/codex-wechat) - WeChat bridge for controlling local Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/demoadminjie/codex-wechat?style=flat-square)
 - [Headcrab/telecodex](https://github.com/Headcrab/telecodex) - Telegram bridge for running local Codex CLI remotely with topic-aware sessions, attachments, and streamed replies. ![GitHub stars](https://img.shields.io/github/stars/Headcrab/telecodex?style=flat-square)
