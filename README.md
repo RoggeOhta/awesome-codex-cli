@@ -240,6 +240,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) - Connect Codex to NotebookLM for research-augmented coding. ![GitHub stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
 - [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis) - Agentic malware analysis environment with MCP-connected disassemblers and RE tooling. ![GitHub stars](https://img.shields.io/github/stars/mrphrazer/agentic-malware-analysis?style=flat-square)
 - [Dekelelz/let-them-talk](https://github.com/Dekelelz/let-them-talk) - MCP message broker + web dashboard for inter-agent communication. Lets Codex, Claude Code, Gemini CLI talk to each other. ![GitHub stars](https://img.shields.io/github/stars/Dekelelz/let-them-talk?style=flat-square)
+- [amflimited/threadfox-lite](https://github.com/amflimited/threadfox-lite) - Read-only Reddit research MCP server with a documented Codex config: subreddit rules with self-promotion rules flagged, communities for a topic, account standing and whether a post stayed up, read through your own signed-in Chrome with no API keys. ![GitHub stars](https://img.shields.io/github/stars/amflimited/threadfox-lite?style=flat-square)
 
 ## IDE & Editor Integrations
 
