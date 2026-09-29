@@ -197,6 +197,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow. ![GitHub stars](https://img.shields.io/github/stars/xmm/codex-bmad-skills?style=flat-square)
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [rusharlabs/house-party-protocol](https://github.com/rusharlabs/house-party-protocol) - Codex CLI plugin marketplace (`codex plugin marketplace add rusharlabs/house-party-protocol`) for a local-first harness for coding-agent teams, whose plugins register module skills while the standard-library `hpp` CLI records the criterion command's exit code outside the model, refuses an approval whose checker is its maker, and binds approvals to the bytes they approved. ![GitHub stars](https://img.shields.io/github/stars/rusharlabs/house-party-protocol?style=flat-square)
 
 ## Hooks
 
