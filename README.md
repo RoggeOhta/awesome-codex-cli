@@ -144,6 +144,8 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [simota/agent-skills](https://github.com/simota/agent-skills) - 100+ specialized AI agent skills for Claude Code / Codex CLI / Gemini CLI - dev, security, design, FinOps, compliance, testing. ![GitHub stars](https://img.shields.io/github/stars/simota/agent-skills?style=flat-square)
 - [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills) - Curated list of agent skills and tools for Claude Code, Codex, Gemini CLI, GitHub Copilot, and more. ![GitHub stars](https://img.shields.io/github/stars/gmh5225/awesome-skills?style=flat-square)
 
+- [suleymantaha/global-agent-skills](https://github.com/suleymantaha/global-agent-skills) - Seven focused Codex skills for evidence-preserving handoffs, bounded quality checks, authorized delegation, memory, sandbox review, MCP, and knowledge vaults, with a documented real-use handoff. ![GitHub stars](https://img.shields.io/github/stars/suleymantaha/global-agent-skills?style=flat-square)
+
 ### Specialized Skills
 
 - [Cpp1022/concise](https://github.com/Cpp1022/concise) - Chinese-first instructions for concise Codex replies, with a shared SKILL.md rule source. ![GitHub stars](https://img.shields.io/github/stars/Cpp1022/concise?style=flat-square)
