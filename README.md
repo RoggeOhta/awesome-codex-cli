@@ -187,6 +187,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad PCB design assistant. Proof that skills can go deep into niche domains. ![GitHub stars](https://img.shields.io/github/stars/aklofas/kicad-happy?style=flat-square)
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
+- [laull9/layouteditor-skill](https://github.com/laull9/layouteditor-skill) - The first Codex skill for LayoutEditor. Headless GDSII mask generation, DRC, and verification for IC and MEMS. ![GitHub stars](https://img.shields.io/github/stars/laull9/layouteditor-skill?style=flat-square)
 
 ## Plugins
 
