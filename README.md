@@ -354,6 +354,7 @@ Tools that bridge Codex with other AI coding agents.
 - [oil-oil/codex](https://github.com/oil-oil/codex) - Claude Code skill for delegating coding tasks to Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/oil-oil/codex?style=flat-square)
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, and Codex - 22 specialists, parallel subagents, persistent sessions. ![GitHub stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=flat-square)
 - [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) - Workflow orchestration with Codex and other CLI backends; successor to the archived Claude Code Workflow. ![GitHub stars](https://img.shields.io/github/stars/catlog22/maestro-flow?style=flat-square)
+- [mano7onam/puenteo](https://github.com/mano7onam/puenteo) - Codex threads and Claude/Gemini/Cursor sessions on one machine message each other (pushed into Codex via `codex queue`), search each other's history and claim files; MCP server + hooks. ![GitHub stars](https://img.shields.io/github/stars/mano7onam/puenteo?style=flat-square)
 
 ## Monitoring & Analytics
 
