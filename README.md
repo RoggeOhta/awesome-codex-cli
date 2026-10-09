@@ -373,6 +373,7 @@ Tools that bridge Codex with other AI coding agents.
 - [DeepBlueDynamics/gnosis-container](https://github.com/DeepBlueDynamics/gnosis-container) - Codex CLI in Docker with 275+ MCP tools, cron/file-watcher/webhook triggers, multi-model support. ![GitHub stars](https://img.shields.io/github/stars/DeepBlueDynamics/gnosis-container?style=flat-square)
 - [libops/cli-sandbox](https://github.com/libops/cli-sandbox) - Docker sandbox container for Claude Code, Codex, Gemini CLI, and OpenCode. ![GitHub stars](https://img.shields.io/github/stars/libops/cli-sandbox?style=flat-square)
 - [itscooleric/clide](https://github.com/itscooleric/clide) - Dockerized agentic terminal - Claude Code, Copilot, Codex CLI in one sandboxed container with egress firewall and web terminal. ![GitHub stars](https://img.shields.io/github/stars/itscooleric/clide?style=flat-square)
+- [Kernel-Hunter/mudroom](https://github.com/Kernel-Hunter/mudroom) - macOS app and CLI that runs Codex CLI and other agents in a Linux micro-VM on a copy-on-write clone of your project, reuses your Codex login, and lets you apply the diff per file or per hunk, with undo. ![GitHub stars](https://img.shields.io/github/stars/Kernel-Hunter/mudroom?style=flat-square)
 
 ## Account & Auth
 
