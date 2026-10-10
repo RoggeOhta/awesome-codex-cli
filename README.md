@@ -388,6 +388,7 @@ Tools that bridge Codex with other AI coding agents.
 
 ## Tutorials & Articles
 
+- [Measuring Slow Codex Browser Workflows (BrowseSprint)](https://codexbrowse.site/codex-browser-slow) - Free guide and CSV worksheet for comparing Codex browser-tool task timings, retries, and successful outcomes before choosing a fix.
 - [Codex Windows Permissions Guide](https://tgwise.com/guides/codex-windows-permissions/) - Community guide to approval prompts, sandbox modes, and checking effective Windows permissions.
 - [How Codex is Built (Pragmatic Engineer)](https://newsletter.pragmaticengineer.com/p/how-codex-is-built) - Deep technical dive into Codex's architecture. Rust, sandboxing, the TUI. Essential reading.
 - [Dogfood: Codex Builds Codex (Stack Overflow)](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) - How the Codex team uses their own tool. Real-world workflow patterns.
