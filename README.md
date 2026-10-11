@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/resources-271-blue" alt="Resources">
+  <img src="https://img.shields.io/badge/resources-272-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
@@ -16,7 +16,7 @@
 
 Codex CLI is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line - with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
 
-**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **271 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **272 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
 
 **Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
 
@@ -388,6 +388,7 @@ Tools that bridge Codex with other AI coding agents.
 
 ## Tutorials & Articles
 
+- [Universal Modder installation guide](https://modlabguides.online/guides/install-universal-modder) - Source-reviewed Codex CLI plugin setup, native `um` command checks, and fallbacks when the plugin subcommand is unavailable.
 - [Codex Windows Permissions Guide](https://tgwise.com/guides/codex-windows-permissions/) - Community guide to approval prompts, sandbox modes, and checking effective Windows permissions.
 - [How Codex is Built (Pragmatic Engineer)](https://newsletter.pragmaticengineer.com/p/how-codex-is-built) - Deep technical dive into Codex's architecture. Rust, sandboxing, the TUI. Essential reading.
 - [Dogfood: Codex Builds Codex (Stack Overflow)](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) - How the Codex team uses their own tool. Real-world workflow patterns.
