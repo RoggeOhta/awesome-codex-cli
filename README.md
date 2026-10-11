@@ -377,6 +377,7 @@ Tools that bridge Codex with other AI coding agents.
 ## Account & Auth
 
 - [Ducksss/codex-profiles](https://github.com/Ducksss/codex-profiles) - Run Codex CLI with named CODEX_HOME profiles that keep account configuration and local session state separate. ![GitHub stars](https://img.shields.io/github/stars/Ducksss/codex-profiles?style=flat-square)
+- [masakaai/codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Keep each ChatGPT account/workspace signed in under its own CODEX_HOME, inspect quota windows, and switch only the next native Codex request. ![GitHub stars](https://img.shields.io/github/stars/masakaai/codex-multiple-env?style=flat-square)
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - Universal AI IDE account manager for Codex, GitHub Copilot, Windsurf, Kiro, Cursor, Gemini CLI. Multi-account switching, quota monitoring. ![GitHub stars](https://img.shields.io/github/stars/jlcodes99/cockpit-tools?style=flat-square)
 - [qxcnm/Codex-Manager](https://github.com/qxcnm/Codex-Manager) - Codex CLI account management and switching tool with local gateway forwarding. ![GitHub stars](https://img.shields.io/github/stars/qxcnm/Codex-Manager?style=flat-square)
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - Use your ChatGPT Plus/Pro subscription as a Codex auth source. The most popular auth tool. ![GitHub stars](https://img.shields.io/github/stars/numman-ali/opencode-openai-codex-auth?style=flat-square)
