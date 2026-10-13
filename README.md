@@ -482,6 +482,7 @@ Codex CLI team members and frequent contributors:
 - [ShunmeiCho/cc-clip](https://github.com/ShunmeiCho/cc-clip) - Paste images into remote Claude Code and Codex CLI over SSH. Clipboard bridging for macOS and Windows. ![GitHub stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square)
 - [chuvadenovembro/script-to-use-codex-cli-on-remote-server](https://github.com/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment) - Headless server setup guide with auth workarounds. ![GitHub stars](https://img.shields.io/github/stars/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment?style=flat-square)
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, Git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
+- [currentbits/mimir](https://github.com/currentbits/mimir) - Desktop app and Docker server that runs your signed-in Codex CLI (`codex exec`) as always-on assistants you message in Telegram, Slack, Discord or Signal, with memory, scheduled routines and tool approvals. Also supports Claude Code and Grok. ![GitHub stars](https://img.shields.io/github/stars/currentbits/mimir?style=flat-square)
 
 ---
 
