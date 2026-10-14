@@ -482,6 +482,7 @@ Codex CLI team members and frequent contributors:
 - [ShunmeiCho/cc-clip](https://github.com/ShunmeiCho/cc-clip) - Paste images into remote Claude Code and Codex CLI over SSH. Clipboard bridging for macOS and Windows. ![GitHub stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square)
 - [chuvadenovembro/script-to-use-codex-cli-on-remote-server](https://github.com/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment) - Headless server setup guide with auth workarounds. ![GitHub stars](https://img.shields.io/github/stars/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment?style=flat-square)
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, Git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
+- [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) - Expose a restricted local Codex CLI command to teammates or other agents over a trusted LAN, with keyed access, target verification, JSON output, and scriptable exit codes. ![GitHub stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=flat-square)
 
 ---
 
