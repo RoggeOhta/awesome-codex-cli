@@ -145,6 +145,8 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills) - Curated list of agent skills and tools for Claude Code, Codex, Gemini CLI, GitHub Copilot, and more. ![GitHub stars](https://img.shields.io/github/stars/gmh5225/awesome-skills?style=flat-square)
 
 ### Specialized Skills
+- [xut82429-glitch/codex-thrift](https://github.com/xut82429-glitch/codex-thrift) - One-command Codex cost audit: find token waste, estimate daily spend by model, auto-generate optimized AGENTS.md. Zero dependencies, single file. ![GitHub stars](https://img.shields.io/github/stars/xut82429-glitch/codex-thrift?style=flat-square)
+- [xut82429-glitch/codex-skills](https://github.com/xut82429-glitch/codex-skills) - 3 high-quality skills: agents-md-gen (auto-generate AGENTS.md), revenue-autopilot (content monetization pipeline), skill-forge (skill development workshop). All in Chinese. ![GitHub stars](https://img.shields.io/github/stars/xut82429-glitch/codex-skills?style=flat-square)
 
 - [Cpp1022/concise](https://github.com/Cpp1022/concise) - Chinese-first instructions for concise Codex replies, with a shared SKILL.md rule source. ![GitHub stars](https://img.shields.io/github/stars/Cpp1022/concise?style=flat-square)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Turn any codebase into an interactive knowledge graph you can explore, search, and query. Multi-platform including Codex. ![GitHub stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=flat-square)
