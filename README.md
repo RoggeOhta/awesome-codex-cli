@@ -197,6 +197,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow. ![GitHub stars](https://img.shields.io/github/stars/xmm/codex-bmad-skills?style=flat-square)
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [acogood/diffmode_free](https://github.com/acogood/diffmode_free) - Growth-strategy pipeline: researches your competitors and buyers, then writes 7-9 unconventional acquisition tactics to synthesis.md (fuses 2-3 growth mechanisms per tactic, reviewer-gated). Runs on Codex and Claude Code; Apache-2.0, Perplexity-optional. ![GitHub stars](https://img.shields.io/github/stars/acogood/diffmode_free?style=flat-square)
 
 ## Hooks
 
