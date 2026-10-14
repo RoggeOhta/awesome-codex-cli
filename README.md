@@ -340,6 +340,7 @@ codex exec "List all TODO comments" --ephemeral | sort
 Tools that bridge Codex with other AI coding agents.
 
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - Universal agent orchestrator. Route tasks between Codex, Claude Code, and Gemini CLI based on model strengths. ![GitHub stars](https://img.shields.io/github/stars/DeepMyst/Mysti?style=flat-square)
+- [LazyAgent](https://github.com/hung1597865420/LazyAgent) - Windows-first MCP control plane for Codex, Claude Code, and Gemini/Antigravity with runtime profiles, lesson memory, review gates, and setup automation. ![GitHub stars](https://img.shields.io/github/stars/hung1597865420/LazyAgent?style=flat-square)
 - [athola/skrills](https://github.com/athola/skrills) - Cross-platform skill format. Write once, use in Codex and Claude Code. ![GitHub stars](https://img.shields.io/github/stars/athola/skrills?style=flat-square)
 - [jcputney/agent-peer-review](https://github.com/jcputney/agent-peer-review) - Codex reviews Claude Code's output (and vice versa). Catches model-specific blind spots. ![GitHub stars](https://img.shields.io/github/stars/jcputney/agent-peer-review?style=flat-square)
 - [abhishekgahlot2/codex-claude-bridge](https://github.com/abhishekgahlot2/codex-claude-bridge) - Run Codex and Claude Code in tandem on the same codebase. ![GitHub stars](https://img.shields.io/github/stars/abhishekgahlot2/codex-claude-bridge?style=flat-square)
