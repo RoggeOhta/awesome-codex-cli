@@ -185,6 +185,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 ### Domain-Specific Skills
 
 - [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad PCB design assistant. Proof that skills can go deep into niche domains. ![GitHub stars](https://img.shields.io/github/stars/aklofas/kicad-happy?style=flat-square)
+- [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills) - HarmonyOS NEXT developer skill for Codex and other coding agents. Local ArkTS/ArkUI/API references plus DevEco Studio, Emulator/HDC automation, UI/UX audit, trace audit, and Empty Ability smoke-test workflows. ![GitHub stars](https://img.shields.io/github/stars/linhay/harmony-next.skills?style=flat-square)
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
 
