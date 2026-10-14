@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome Codex CLI" width="600">
-</p>
-
-<h1 align="center">Awesome Codex CLI <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
-
-<p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/resources-271-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
@@ -188,6 +182,9 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
 
+- [thebrierfox/yield-intelligence-skill](https://github.com/thebrierfox/yield-intelligence-skill) - Live US Treasury yield curves, bond calculator, and AI-powered portfolio analysis. Finance domain skill with MCP endpoint, no API key required. ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/yield-intelligence-skill?style=flat-square)
+- [thebrierfox/moatmri](https://github.com/thebrierfox/moatmri) - 10-vector competitive pressure analysis → AI-generated pressure map and 90-day counterstrike plan. Business intelligence domain skill. ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/moatmri?style=flat-square)
+- [thebrierfox/doc2math](https://github.com/thebrierfox/doc2math) - Extract mathematical structures (variables, constraints, objectives) from research documents. Zero-Inference Protocol for academic and scientific analysis. ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/doc2math?style=flat-square)
 ## Plugins
 
 Distributable bundles combining skills + app integrations + MCP servers. Defined in `.codex-plugin/plugin.json`. Browse with `/plugins`.
