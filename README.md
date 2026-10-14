@@ -143,6 +143,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - Skills, memory, security checks, and workflow configuration for Codex and other coding agents. ![GitHub stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square)
 - [simota/agent-skills](https://github.com/simota/agent-skills) - 100+ specialized AI agent skills for Claude Code / Codex CLI / Gemini CLI - dev, security, design, FinOps, compliance, testing. ![GitHub stars](https://img.shields.io/github/stars/simota/agent-skills?style=flat-square)
 - [gmh5225/awesome-skills](https://github.com/gmh5225/awesome-skills) - Curated list of agent skills and tools for Claude Code, Codex, Gemini CLI, GitHub Copilot, and more. ![GitHub stars](https://img.shields.io/github/stars/gmh5225/awesome-skills?style=flat-square)
+- [Infrasity-Labs/dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing. 
 
 ### Specialized Skills
 
@@ -172,6 +173,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - Agent-optimized React Native skills by Callstack: best practices, optimization, upgrade workflows. ![GitHub stars](https://img.shields.io/github/stars/callstackincubator/agent-skills?style=flat-square)
 - [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - LLM-first SEO analysis with 16 sub-skills, 10 specialist agents, and 33 utility scripts. ![GitHub stars](https://img.shields.io/github/stars/Bhanunamikaze/Agentic-SEO-Skill?style=flat-square)
 - [Gitmaxd/deepagents-cli-codex-skill](https://github.com/Gitmaxd/deepagents-cli-codex-skill) - Deep Agents CLI skill - scaffolds Codex skills and launches production subagent pipelines. ![GitHub stars](https://img.shields.io/github/stars/Gitmaxd/deepagents-cli-codex-skill?style=flat-square)
+- [Infrasity-Labs/dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing. 
 
 ### Skills Management
 
