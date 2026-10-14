@@ -366,6 +366,7 @@ Tools that bridge Codex with other AI coding agents.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - macOS menu bar app showing usage stats for Codex, Claude, Cursor, Gemini without login. On-device parsing. ![GitHub stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square)
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze local Codex and Claude Code usage with CLI reports and token-cost breakdowns. ![GitHub stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square)
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - CLI + TUI + web dashboard tracking token usage across 16+ AI coding platforms. Rust core, contribution graphs, leaderboard. ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
+- [Agent FM](https://github.com/agentfm-ai/agent-fm) - Local macOS companion for Codex sessions that helps developers hear progress, blockers, errors, and attention requests without reading every terminal. ![GitHub stars](https://img.shields.io/github/stars/agentfm-ai/agent-fm?style=flat-square)
 
 ## Docker & Sandboxing
 
