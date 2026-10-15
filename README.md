@@ -207,6 +207,7 @@ User-defined shell scripts that run at specific points in the agentic loop. Requ
 - [shanraisshan/codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) - Starter hooks collection: pre-commit validation, cost tracking, notification triggers. ![GitHub stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat-square)
 - [liewcf/codex-notify-macos](https://github.com/liewcf/codex-notify-macos) - macOS notification hook - get alerted when long-running tasks complete. ![GitHub stars](https://img.shields.io/github/stars/liewcf/codex-notify-macos?style=flat-square)
 - [vcz-Gray/loophaus](https://github.com/vcz-Gray/loophaus) - Cross-platform iterative development loops via Stop hooks. ![GitHub stars](https://img.shields.io/github/stars/vcz-Gray/loophaus?style=flat-square)
+- [golproductions/check-plugins](https://github.com/golproductions/check-plugins) - `PreToolUse` hook plugin that checks each command on your own machine before Codex runs it: programs, files, folders, git refs and packages it names must exist, and scripts must parse; what the machine proves wrong is blocked. Paid, 14-day free trial. ![GitHub stars](https://img.shields.io/github/stars/golproductions/check-plugins?style=flat-square)
 
 ## MCP Servers
 
