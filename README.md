@@ -187,7 +187,6 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad PCB design assistant. Proof that skills can go deep into niche domains. ![GitHub stars](https://img.shields.io/github/stars/aklofas/kicad-happy?style=flat-square)
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - Computer vision / YOLO model training workflow. ![GitHub stars](https://img.shields.io/github/stars/qtzx06/yolodex?style=flat-square)
 - [Frankieli123/grok-skill](https://github.com/Frankieli123/grok-skill) - Log analysis and pattern matching. Useful for debugging production issues. ![GitHub stars](https://img.shields.io/github/stars/Frankieli123/grok-skill?style=flat-square)
-- [MetaMask/agent-skills](https://github.com/MetaMask/agent-skills) - Self-custodial crypto wallet for agents. Swaps, bridges, perps, prediction markets, and onchain payments via the `mm` CLI. ![GitHub stars](https://img.shields.io/github/stars/MetaMask/agent-skills?style=flat-square)
 
 ## Plugins
 
@@ -198,6 +197,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow. ![GitHub stars](https://img.shields.io/github/stars/xmm/codex-bmad-skills?style=flat-square)
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [MetaMask/agent-skills](https://github.com/MetaMask/agent-skills) - Official MetaMask Agent Wallet plugin. Gives Codex a self-custodial wallet to swap, bridge, trade perps and prediction markets, and pay x402 APIs. ![GitHub stars](https://img.shields.io/github/stars/MetaMask/agent-skills?style=flat-square)
 
 ## Hooks
 
