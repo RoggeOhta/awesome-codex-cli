@@ -83,6 +83,7 @@ If you find this useful, please give it a star - it helps others discover the li
 - [Medium Quick Setup](https://medium.com/ai-software-engineer/how-to-install-and-use-openai-codex-cli-in-2-minutes-29e9fdd0e8c5) - 2-minute install-to-first-prompt guide. No fluff.
 - [OpenReplay Integration Guide](https://blog.openreplay.com/integrate-openais-codex-cli-tool-development-workflow/) - How to weave Codex into an existing dev workflow.
 - [Machine Learning Mastery](https://machinelearningmastery.com/understanding-openai-codex-cli-commands/) - Command reference with examples for each mode.
+- [Codex config.toml Generator (Chinese)](https://nano-banana.lol/tutorials/config-toml-generator) - In-browser form for approval policy, sandbox, web search and an MCP server; outputs a config.toml checked against Codex CLI 0.162.1.
 
 ## AGENTS.md Templates
 
@@ -93,6 +94,7 @@ Project-level instruction files that tell Codex how to work with your codebase -
 - [claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Dual AGENTS.md + CLAUDE.md setup for teams running both agents side-by-side. ![GitHub stars](https://img.shields.io/github/stars/fcakyon/claude-codex-settings?style=flat-square)
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - Cross-tool config generator - outputs AGENTS.md, CLAUDE.md, and .cursorrules from one source. ![GitHub stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup?style=flat-square)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - The open AGENTS.md specification under Linux Foundation. 60k+ adopting projects. ![GitHub stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square)
+- [AGENTS.md Generator (Chinese)](https://nano-banana.lol/tutorials/agents-md-generator) - In-browser form that outputs an AGENTS.md from package manager, test commands and no-touch paths; nothing is uploaded.
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) - Curated list of real-world AGENTS.md files, templates, guides, and tools for Codex-based agents. ![GitHub stars](https://img.shields.io/github/stars/Ischca/awesome-agents-md?style=flat-square)
 - [danielrosehill/Agents.md-Templates](https://github.com/danielrosehill/Agents.md-Templates) - Collection of AGENTS.md templates following the standard suggested by OpenAI. ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Agents.md-Templates?style=flat-square)
 
