@@ -95,6 +95,7 @@ Project-level instruction files that tell Codex how to work with your codebase -
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - The open AGENTS.md specification under Linux Foundation. 60k+ adopting projects. ![GitHub stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square)
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) - Curated list of real-world AGENTS.md files, templates, guides, and tools for Codex-based agents. ![GitHub stars](https://img.shields.io/github/stars/Ischca/awesome-agents-md?style=flat-square)
 - [danielrosehill/Agents.md-Templates](https://github.com/danielrosehill/Agents.md-Templates) - Collection of AGENTS.md templates following the standard suggested by OpenAI. ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Agents.md-Templates?style=flat-square)
+- [elirankotzero/ai-coding-rules-sampler](https://github.com/elirankotzero/ai-coding-rules-sampler) - MIT AGENTS.md with security, plan-first workflow and decisions-log rules, plus $plan-feature, $review-changes and $record-decisions skills in .agents/skills. ![GitHub stars](https://img.shields.io/github/stars/elirankotzero/ai-coding-rules-sampler?style=flat-square)
 
 ## Subagents
 
