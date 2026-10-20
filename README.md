@@ -95,6 +95,7 @@ Project-level instruction files that tell Codex how to work with your codebase -
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - The open AGENTS.md specification under Linux Foundation. 60k+ adopting projects. ![GitHub stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square)
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) - Curated list of real-world AGENTS.md files, templates, guides, and tools for Codex-based agents. ![GitHub stars](https://img.shields.io/github/stars/Ischca/awesome-agents-md?style=flat-square)
 - [danielrosehill/Agents.md-Templates](https://github.com/danielrosehill/Agents.md-Templates) - Collection of AGENTS.md templates following the standard suggested by OpenAI. ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Agents.md-Templates?style=flat-square)
+- [AGENTS.md vs CLAUDE.md (RigFit)](https://rigfit-harness.vercel.app/agents-md-vs-claude-md/) - How Codex finds and layers AGENTS.md and AGENTS.override.md (including the 32 KiB default size limit) compared with Claude Code, OpenCode, goose, Aider and Gemini CLI, with every rule linked to official docs.
 
 ## Subagents
 
