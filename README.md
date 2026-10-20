@@ -95,6 +95,7 @@ Project-level instruction files that tell Codex how to work with your codebase -
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - The open AGENTS.md specification under Linux Foundation. 60k+ adopting projects. ![GitHub stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square)
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) - Curated list of real-world AGENTS.md files, templates, guides, and tools for Codex-based agents. ![GitHub stars](https://img.shields.io/github/stars/Ischca/awesome-agents-md?style=flat-square)
 - [danielrosehill/Agents.md-Templates](https://github.com/danielrosehill/Agents.md-Templates) - Collection of AGENTS.md templates following the standard suggested by OpenAI. ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Agents.md-Templates?style=flat-square)
+- [agusmdev/fullstack-ai-template](https://github.com/agusmdev/fullstack-ai-template) - FastAPI + React 19 + Postgres project template with nested AGENTS.md files and a `make ci` gate that fails on mocks or untested routes, so Codex can't fake a green check. ![GitHub stars](https://img.shields.io/github/stars/agusmdev/fullstack-ai-template?style=flat-square)
 
 ## Subagents
 
