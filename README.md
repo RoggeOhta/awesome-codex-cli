@@ -240,6 +240,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) - Connect Codex to NotebookLM for research-augmented coding. ![GitHub stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
 - [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis) - Agentic malware analysis environment with MCP-connected disassemblers and RE tooling. ![GitHub stars](https://img.shields.io/github/stars/mrphrazer/agentic-malware-analysis?style=flat-square)
 - [Dekelelz/let-them-talk](https://github.com/Dekelelz/let-them-talk) - MCP message broker + web dashboard for inter-agent communication. Lets Codex, Claude Code, Gemini CLI talk to each other. ![GitHub stars](https://img.shields.io/github/stars/Dekelelz/let-them-talk?style=flat-square)
+- [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday) - Agent-native MCP server (`mcp_server/server.py`) & `SKILL.md` for sub-agent Proof-of-Escrow bounties, HTTP 402 pay-per-call tool micropayments, and Base Mainnet `wDOOM` settlement. ![GitHub stars](https://img.shields.io/github/stars/doomsday-network/doomsday?style=flat-square)
 
 ## IDE & Editor Integrations
 
