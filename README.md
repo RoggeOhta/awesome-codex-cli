@@ -240,6 +240,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) - Connect Codex to NotebookLM for research-augmented coding. ![GitHub stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
 - [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis) - Agentic malware analysis environment with MCP-connected disassemblers and RE tooling. ![GitHub stars](https://img.shields.io/github/stars/mrphrazer/agentic-malware-analysis?style=flat-square)
 - [Dekelelz/let-them-talk](https://github.com/Dekelelz/let-them-talk) - MCP message broker + web dashboard for inter-agent communication. Lets Codex, Claude Code, Gemini CLI talk to each other. ![GitHub stars](https://img.shields.io/github/stars/Dekelelz/let-them-talk?style=flat-square)
+- [radres/call-me](https://github.com/radres/call-me) - Lets Codex ring your iPhone, read a question aloud and return your spoken answer as text, or send a text and wait for the reply; hosted MCP server plus a local Codex entrypoint, and the iPhone app it rings is a paid subscription with no free tier. ![GitHub stars](https://img.shields.io/github/stars/radres/call-me?style=flat-square)
 
 ## IDE & Editor Integrations
 
