@@ -240,6 +240,8 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) - Connect Codex to NotebookLM for research-augmented coding. ![GitHub stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
 - [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis) - Agentic malware analysis environment with MCP-connected disassemblers and RE tooling. ![GitHub stars](https://img.shields.io/github/stars/mrphrazer/agentic-malware-analysis?style=flat-square)
 - [Dekelelz/let-them-talk](https://github.com/Dekelelz/let-them-talk) - MCP message broker + web dashboard for inter-agent communication. Lets Codex, Claude Code, Gemini CLI talk to each other. ![GitHub stars](https://img.shields.io/github/stars/Dekelelz/let-them-talk?style=flat-square)
+- [mybolide/coding-tools-mcp](https://github.com/mybolide/coding-tools-mcp) - Local stdio workspace server for coding agents: file edits, command execution, Git status and resumable history sessions in one interface instead of four separate servers. Apache-2.0, official MCP Registry. ![GitHub stars](https://img.shields.io/github/stars/mybolide/coding-tools-mcp?style=flat-square)
+- [mybolide/mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) - Diagnostics for the servers you give Codex: enumerate every tool, resource and prompt, exercise them, and diff health, latency and JSON schemas between runs. Read-only against the target. MIT, `npx -y mcp-probe-kit`. ![GitHub stars](https://img.shields.io/github/stars/mybolide/mcp-probe-kit?style=flat-square)
 
 ## IDE & Editor Integrations
 
