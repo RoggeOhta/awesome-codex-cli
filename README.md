@@ -320,7 +320,7 @@ Use `codex exec` for non-interactive automation in pipelines.
 
 - [Adashuai5/quota-autopilot](https://github.com/Adashuai5/quota-autopilot) - Schedule background Codex and Claude Code tasks around subscription quota, reset windows, and recent human activity. ![GitHub stars](https://img.shields.io/github/stars/Adashuai5/quota-autopilot?style=flat-square)
 - [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - 35 automation recipes organized by category: code quality, CI/CD, releases, deps, security. ![GitHub stars](https://img.shields.io/github/stars/onurkanbakirci/awesome-codex-automations?style=flat-square)
-
+- [buddy/cli](https://github.com/buddy/cli) - Official Buddy CLI with an agent skill (`npx skills add buddy/buddy-plugin`) so Codex can deploy apps, run pipelines and read build logs; also runs Codex CLI as a pipeline action on PRs, failed deploys or cron ([Codex guide](https://buddy.works/docs/ai-agents/agents/codex)). Free tier. ![GitHub stars](https://img.shields.io/github/stars/buddy/cli?style=flat-square)
 
 ### Patterns
 
