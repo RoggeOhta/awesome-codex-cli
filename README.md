@@ -366,6 +366,7 @@ Tools that bridge Codex with other AI coding agents.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - macOS menu bar app showing usage stats for Codex, Claude, Cursor, Gemini without login. On-device parsing. ![GitHub stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square)
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze local Codex and Claude Code usage with CLI reports and token-cost breakdowns. ![GitHub stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square)
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - CLI + TUI + web dashboard tracking token usage across 16+ AI coding platforms. Rust core, contribution graphs, leaderboard. ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
+- [chendaleiQ/codex-reset](https://github.com/chendaleiQ/codex-reset) - Read-only tracker for Codex global quota resets: verified reset history, 24h/48h probabilities and a 28-day plan, with announced/pending/verified kept separate. No login, open source. Live at [codex-reset.opentunnel.asia](https://codex-reset.opentunnel.asia/). ![GitHub stars](https://img.shields.io/github/stars/chendaleiQ/codex-reset?style=flat-square)
 
 ## Docker & Sandboxing
 
