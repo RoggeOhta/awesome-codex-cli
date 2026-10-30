@@ -403,6 +403,7 @@ Tools that bridge Codex with other AI coding agents.
 - [Codex CLI Automation: 3 Workflow Patterns (SmartScope)](https://smartscope.blog/en/generative-ai/chatgpt/codex-cli-automation-workflow-patterns/) - Production-ready automation patterns: GitHub Actions integration, cron-triggered runs, and CI pipeline embedding.
 - [How to Run Codex CLI Safely in GitHub Actions (SmartScope)](https://smartscope.blog/en/generative-ai/chatgpt/codex-cli-github-actions/) - Security-focused guide to sandboxing Codex in CI, secret management, and approval policy configuration.
 - [Deployment Workflows with Codex CLI (DeployHQ)](https://www.deployhq.com/blog/getting-started-with-openai-codex-cli-ai-powered-code-generation-from-your-terminal) - Deployment-focused guide with practical examples for CI/CD pipelines and code review automation.
+- [CodingAgentFix](https://codingagentfix.com) - Unofficial, source-linked troubleshooting guides for Codex errors in the CLI, VS Code extension, and desktop app. Each guide quotes the exact error text, lists affected versions, and links the GitHub issues it is based on.
 
 ## Videos & Podcasts
 
