@@ -484,6 +484,7 @@ Codex CLI team members and frequent contributors:
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, Git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
 
 ---
+- [xufei547/railse-opc](https://github.com/xufei547/railse-opc) - Self-hosted approval inbox for Codex, Claude Code and Gemini CLI: a rules engine auto-allows low-risk tool calls, the rest is pushed to your phone to approve or deny. ![GitHub stars](https://img.shields.io/github/stars/xufei547/railse-opc?style=flat-square)
 
 ## Contributing
 
