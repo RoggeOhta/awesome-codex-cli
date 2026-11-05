@@ -444,6 +444,7 @@ Tools that bridge Codex with other AI coding agents.
 - [Claude Code vs Codex vs Gemini Code Assist (Educative)](https://www.educative.io/blog/claude-code-vs-codex-vs-gemini-code-assist) - Three-way comparison covering benchmarks, pricing, IDE integrations, and developer experience.
 - [Testing AI Coding Agents Benchmark (Render)](https://render.com/blog/ai-coding-agents-benchmark) - Real-world benchmark from Render comparing all major terminal coding agents on actual deployment and build tasks.
 - [Codex vs Gemini CLI (UI Bakery)](https://uibakery.io/blog/codex-vs-gemini-cli) - Head-to-head comparison focusing on developer tooling, context window, and free tier access.
+- [Claude Code vs Codex CLI (Agentic Weekly)](https://theagenticweekly.com/compare/claude-code-vs-codex-cli) - Dated comparison of pricing, license, surfaces and Terminal-Bench 4.0 board scores, with each fact linked to its vendor source.
 
 ## Community
 
