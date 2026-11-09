@@ -358,6 +358,7 @@ Tools that bridge Codex with other AI coding agents.
 ## Monitoring & Analytics
 
 - [lorytek/PulseMeter](https://github.com/lorytek/PulseMeter) - Windows tray app showing Codex usage limits, reset credits, and local project usage estimates. ![GitHub stars](https://img.shields.io/github/stars/lorytek/PulseMeter?style=flat-square)
+- [chiarorosa/claude-codex-taskbar](https://github.com/chiarorosa/claude-codex-taskbar) - Windows 10/11 taskbar widget showing Codex and Claude Code 5-hour and weekly limits next to CPU, RAM, GPU and disk activity. Native Rust, single exe under 1 MB. ![GitHub stars](https://img.shields.io/github/stars/chiarorosa/claude-codex-taskbar?style=flat-square)
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop but for AI coding agents. Monitor Claude Code and Codex CLI sessions, tokens, context window, rate limits in real-time. ![GitHub stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square)
 - [fahd09/watchtower](https://github.com/fahd09/watchtower) - Monitor, inspect, and debug all API traffic between AI coding agents and their APIs with a real-time web dashboard. ![GitHub stars](https://img.shields.io/github/stars/fahd09/watchtower?style=flat-square)
 - [NihilDigit/waybar-ai-usage](https://github.com/NihilDigit/waybar-ai-usage) - Waybar widget showing real-time Codex token usage and costs. Linux desktop integration. ![GitHub stars](https://img.shields.io/github/stars/NihilDigit/waybar-ai-usage?style=flat-square)
