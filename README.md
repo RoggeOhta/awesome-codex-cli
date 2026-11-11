@@ -197,6 +197,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow. ![GitHub stars](https://img.shields.io/github/stars/xmm/codex-bmad-skills?style=flat-square)
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [LiuTianjie/StupidMirror](https://github.com/LiuTianjie/StupidMirror) - Mac app and Codex plugin that lets Codex see and operate iPhones, Android phones, iOS Simulators and Android emulators through a local MCP server, with the live screen in the chat; one device is free. ![GitHub stars](https://img.shields.io/github/stars/LiuTianjie/StupidMirror?style=flat-square)
 
 ## Hooks
 
@@ -482,6 +483,7 @@ Codex CLI team members and frequent contributors:
 - [ShunmeiCho/cc-clip](https://github.com/ShunmeiCho/cc-clip) - Paste images into remote Claude Code and Codex CLI over SSH. Clipboard bridging for macOS and Windows. ![GitHub stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square)
 - [chuvadenovembro/script-to-use-codex-cli-on-remote-server](https://github.com/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment) - Headless server setup guide with auth workarounds. ![GitHub stars](https://img.shields.io/github/stars/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment?style=flat-square)
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, Git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
+- [LiuTianjie/LinkShell](https://github.com/LiuTianjie/LinkShell) - iPhone, Apple Watch and browser client for Codex and Claude Code running on your computer: lock-screen approvals, steering a running turn, remote desktop, terminal, end-to-end encryption; the gateway can be self-hosted for free. ![GitHub stars](https://img.shields.io/github/stars/LiuTianjie/LinkShell?style=flat-square)
 
 ---
 
