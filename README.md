@@ -389,6 +389,7 @@ Tools that bridge Codex with other AI coding agents.
 ## Tutorials & Articles
 
 - [Codex Windows Permissions Guide](https://tgwise.com/guides/codex-windows-permissions/) - Community guide to approval prompts, sandbox modes, and checking effective Windows permissions.
+- [Codex CLI on Windows: Install and Fix 'Not Recognized' (khadim.tech)](https://khadim.tech/blog/codex-windows) - Windows 11 walkthrough of the PowerShell installer, the PATH fix when `codex` isn't recognized right after install, the sandbox setup prompt and the /permissions menu, with screenshots.
 - [How Codex is Built (Pragmatic Engineer)](https://newsletter.pragmaticengineer.com/p/how-codex-is-built) - Deep technical dive into Codex's architecture. Rust, sandboxing, the TUI. Essential reading.
 - [Dogfood: Codex Builds Codex (Stack Overflow)](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) - How the Codex team uses their own tool. Real-world workflow patterns.
 - [How Codex Team Uses Their Agent (Every)](https://every.to/podcast/transcript-how-openai-s-codex-team-uses-their-coding-agent) - Transcript of the team discussing daily usage, tips, and antipatterns.
