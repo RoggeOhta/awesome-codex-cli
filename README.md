@@ -274,7 +274,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [Cocoanetics/CodexMonitor](https://github.com/Cocoanetics/CodexMonitor) - macOS menu bar app to list, inspect, and watch local Codex CLI sessions. Includes VS Code integration. ![GitHub stars](https://img.shields.io/github/stars/Cocoanetics/CodexMonitor?style=flat-square)
 - [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Automated installer to run the OpenAI Codex Desktop app on Linux. ![GitHub stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square)
 - [LZY-Ricardo/AIDevHub](https://github.com/LZY-Ricardo/AIDevHub) - Desktop app (Tauri v2 + Rust + React) for managing MCP server configs and skills of Claude Code and Codex. ![GitHub stars](https://img.shields.io/github/stars/LZY-Ricardo/AIDevHub?style=flat-square)
-- [Neuralflows/axon-terminal](https://github.com/Neuralflows/axon-terminal) - Lichen: free Windows desktop app where Codex (signed in with ChatGPT or through OpenRouter) and Claude Code sessions work as a team: agents can message each other, and each session shows its context, cost, tool calls and diffs. ![GitHub stars](https://img.shields.io/github/stars/Neuralflows/axon-terminal?style=flat-square)
+- [Neuralflows/axon-terminal](https://github.com/Neuralflows/axon-terminal) - Lichen: free Windows desktop app for directing Codex (signed in with ChatGPT or through OpenRouter) and Claude Code agents, built for speed first: it stays fast even with huge conversations. Agents message each other, and each session shows its context, cost, tool calls and diffs. ![GitHub stars](https://img.shields.io/github/stars/Neuralflows/axon-terminal?style=flat-square)
 
 ## Session & Workflow Management
 
