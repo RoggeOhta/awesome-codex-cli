@@ -198,6 +198,8 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
 
+- [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) - Codex plugin for image-heavy chats: earlier images go out as short placeholders instead of being sent again with every message, the model fetches the original back by its ID (also after compaction), and the prompt cache keeps working; also supports Claude Code. ![GitHub stars](https://img.shields.io/github/stars/chipfighter/context-attachment-manager?style=flat-square)
+
 ## Hooks
 
 User-defined shell scripts that run at specific points in the agentic loop. Requires `codex_hooks = true` feature flag.
