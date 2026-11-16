@@ -355,6 +355,8 @@ Tools that bridge Codex with other AI coding agents.
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, and Codex - 22 specialists, parallel subagents, persistent sessions. ![GitHub stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=flat-square)
 - [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) - Workflow orchestration with Codex and other CLI backends; successor to the archived Claude Code Workflow. ![GitHub stars](https://img.shields.io/github/stars/catlog22/maestro-flow?style=flat-square)
 
+- [linxiangpk1991/codex-zcode-tandem](https://github.com/linxiangpk1991/codex-zcode-tandem) - Windows Codex skill that delegates coding to native ZCode over ACP with live steering and default independent review, repair and verification. ![GitHub stars](https://img.shields.io/github/stars/linxiangpk1991/codex-zcode-tandem?style=flat-square)
+
 ## Monitoring & Analytics
 
 - [lorytek/PulseMeter](https://github.com/lorytek/PulseMeter) - Windows tray app showing Codex usage limits, reset credits, and local project usage estimates. ![GitHub stars](https://img.shields.io/github/stars/lorytek/PulseMeter?style=flat-square)
