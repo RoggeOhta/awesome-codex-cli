@@ -471,6 +471,7 @@ Codex CLI team members and frequent contributors:
 - [sadjow/codex-cli-nix](https://github.com/sadjow/codex-cli-nix) - Nix flake for reproducible Codex CLI installation. ![GitHub stars](https://img.shields.io/github/stars/sadjow/codex-cli-nix?style=flat-square)
 - [tom-doerr/codex.fish](https://github.com/tom-doerr/codex.fish) - Fish shell plugin for AI-powered command completion using Codex. ![GitHub stars](https://img.shields.io/github/stars/tom-doerr/codex.fish?style=flat-square)
 - [MengnanTech/SplitMux](https://github.com/MengnanTech/SplitMux) - macOS terminal multiplexer with Claude Code and Codex CLI agent integration. ![GitHub stars](https://img.shields.io/github/stars/MengnanTech/SplitMux?style=flat-square)
+- [gwonminsu/MinsuTerm](https://github.com/gwonminsu/MinsuTerm) - Windows/macOS terminal for Codex CLI and Claude Code. Agent task dashboard with subagents, done/choice notifications, session restore, drag-to-split panes. ![GitHub stars](https://img.shields.io/github/stars/gwonminsu/MinsuTerm?style=flat-square)
 
 ## Remote Access
 
