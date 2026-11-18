@@ -226,6 +226,8 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [salparadi-labs/brain](https://github.com/salparadi-labs/brain) - Persistent memory MCP server for Codex sessions - stores decisions, tasks, preferences in SQLite. ![GitHub stars](https://img.shields.io/github/stars/salparadi-labs/brain?style=flat-square)
 - [vanthienha199/agent-cost-mcp](https://github.com/vanthienha199/agent-cost-mcp) - MCP server for tracking AI agent costs in real time - per-message spending, budget alerts, visual dashboard. ![GitHub stars](https://img.shields.io/github/stars/vanthienha199/agent-cost-mcp?style=flat-square)
 
+- [layervai/qurl-mcp](https://github.com/layervai/qurl-mcp) - Lets Codex share local apps with approved people and agents through OpenNHP identity-first access, without deploying the app or exposing a public inbound app port. ![GitHub stars](https://img.shields.io/github/stars/layervai/qurl-mcp?style=flat-square)
+
 ### Codex as MCP Server
 
 - [Mr-Tomahawk/codex-cli-mcp-tool](https://github.com/Mr-Tomahawk/codex-cli-mcp-tool) - Wrap Codex CLI as an MCP tool for use in other agent frameworks. ![GitHub stars](https://img.shields.io/github/stars/Mr-Tomahawk/codex-cli-mcp-tool?style=flat-square)
