@@ -225,6 +225,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [karad/seiro-mcp](https://github.com/karad/seiro-mcp) - MCP server and skills for autonomous build workflows for visionOS (Swift) apps using Codex CLI. ![GitHub stars](https://img.shields.io/github/stars/karad/seiro-mcp?style=flat-square)
 - [salparadi-labs/brain](https://github.com/salparadi-labs/brain) - Persistent memory MCP server for Codex sessions - stores decisions, tasks, preferences in SQLite. ![GitHub stars](https://img.shields.io/github/stars/salparadi-labs/brain?style=flat-square)
 - [vanthienha199/agent-cost-mcp](https://github.com/vanthienha199/agent-cost-mcp) - MCP server for tracking AI agent costs in real time - per-message spending, budget alerts, visual dashboard. ![GitHub stars](https://img.shields.io/github/stars/vanthienha199/agent-cost-mcp?style=flat-square)
+- [mirasim-ai/computer-use](https://github.com/mirasim-ai/computer-use) - Lets Codex check its own work in a browser: drives Chrome (or your signed-in one), macOS and Electron apps through accessibility trees, a whole chain of steps per scripted call. ![GitHub stars](https://img.shields.io/github/stars/mirasim-ai/computer-use?style=flat-square)
 
 ### Codex as MCP Server
 
