@@ -172,6 +172,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - Agent-optimized React Native skills by Callstack: best practices, optimization, upgrade workflows. ![GitHub stars](https://img.shields.io/github/stars/callstackincubator/agent-skills?style=flat-square)
 - [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - LLM-first SEO analysis with 16 sub-skills, 10 specialist agents, and 33 utility scripts. ![GitHub stars](https://img.shields.io/github/stars/Bhanunamikaze/Agentic-SEO-Skill?style=flat-square)
 - [Gitmaxd/deepagents-cli-codex-skill](https://github.com/Gitmaxd/deepagents-cli-codex-skill) - Deep Agents CLI skill - scaffolds Codex skills and launches production subagent pipelines. ![GitHub stars](https://img.shields.io/github/stars/Gitmaxd/deepagents-cli-codex-skill?style=flat-square)
+- [GhabiX/ArborynSkills](https://github.com/GhabiX/ArborynSkills) - Reusable Codex skills for persistent plan trees and functional semantic growth. ![GitHub stars](https://img.shields.io/github/stars/GhabiX/ArborynSkills?style=flat-square)
 
 ### Skills Management
 
@@ -298,6 +299,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [re-cinq/shift-log](https://github.com/re-cinq/shift-log) - Automatically saves coding agents' conversations in Git Notes. Works with Codex, Claude Code, Gemini CLI, OpenCode. ![GitHub stars](https://img.shields.io/github/stars/re-cinq/shift-log?style=flat-square)
 - [2ue/ccman](https://github.com/2ue/ccman) - Tool for managing Claude Code + Codex API + Gemini CLI + OpenCode service provider configurations. ![GitHub stars](https://img.shields.io/github/stars/2ue/ccman?style=flat-square)
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search local coding agent session history across 11+ providers including Codex. ![GitHub stars](https://img.shields.io/github/stars/Dicklesworthstone/coding_agent_session_search?style=flat-square)
+- [GhabiX/SpineCodex](https://github.com/GhabiX/SpineCodex) - Open-source Codex CLI distribution with persistent subtask-tree context compilation that preserves prompt-cache hits and cuts long-horizon token costs by 32%–74%. ![GitHub stars](https://img.shields.io/github/stars/GhabiX/SpineCodex?style=flat-square)
 
 ## Model Providers & Proxies
 
