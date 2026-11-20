@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/resources-271-blue" alt="Resources">
+  <img src="https://img.shields.io/badge/resources-272-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
@@ -16,7 +16,7 @@
 
 Codex CLI is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line - with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
 
-**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **271 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **272 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
 
 **Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
 
@@ -364,6 +364,7 @@ Tools that bridge Codex with other AI coding agents.
 - [yoavf/ai-sessions-mcp](https://github.com/yoavf/ai-sessions-mcp) - MCP server that tracks session history, token usage, and cost across agents. ![GitHub stars](https://img.shields.io/github/stars/yoavf/ai-sessions-mcp?style=flat-square)
 - [HizTam/codex-history-viewer](https://github.com/HizTam/codex-history-viewer) - Browse and search past Codex sessions with full context. ![GitHub stars](https://img.shields.io/github/stars/HizTam/codex-history-viewer?style=flat-square)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - macOS menu bar app showing usage stats for Codex, Claude, Cursor, Gemini without login. On-device parsing. ![GitHub stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square)
+- [gnibu/tokens-on-track](https://github.com/gnibu/tokens-on-track) - macOS menu bar app showing Codex, Claude Code, OpenCode Go, OpenRouter and Cursor quota against the pace that lasts until each reset. ![GitHub stars](https://img.shields.io/github/stars/gnibu/tokens-on-track?style=flat-square)
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze local Codex and Claude Code usage with CLI reports and token-cost breakdowns. ![GitHub stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square)
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - CLI + TUI + web dashboard tracking token usage across 16+ AI coding platforms. Rust core, contribution graphs, leaderboard. ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
 
