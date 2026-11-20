@@ -313,6 +313,7 @@ Codex supports `openai_base_url` for custom model providers. Use any OpenAI-comp
 - [lzjever/air-gapped](https://github.com/lzjever/air-gapped) - Portable Codex CLI + vLLM for air-gapped/offline use. ![GitHub stars](https://img.shields.io/github/stars/lzjever/air-gapped?style=flat-square)
 - [maksimzayats/acodex](https://github.com/maksimzayats/acodex) - Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items). ![GitHub stars](https://img.shields.io/github/stars/maksimzayats/acodex?style=flat-square)
 - [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) - Lightweight local relay that converts Codex Desktop's Responses API to multiple protocol interfaces (OpenAI, Anthropic, Gemini). ![GitHub stars](https://img.shields.io/github/stars/icebear0828/codex-proxy?style=flat-square)
+- [mazda6hk-coder/MicroGlow-Relay](https://github.com/mazda6hk-coder/MicroGlow-Relay) - Windows desktop app that runs a local gateway on 127.0.0.1:4141 so both Codex (OpenAI Responses) and Claude Code (Anthropic Messages) reach third-party model providers through one endpoint, with weighted channels, cooldown and failover before the response starts. Open source, Apache-2.0. ![GitHub stars](https://img.shields.io/github/stars/mazda6hk-coder/MicroGlow-Relay?style=flat-square)
 
 ## CI/CD & Automation
 
