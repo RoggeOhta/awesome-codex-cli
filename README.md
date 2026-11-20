@@ -482,6 +482,7 @@ Codex CLI team members and frequent contributors:
 - [ShunmeiCho/cc-clip](https://github.com/ShunmeiCho/cc-clip) - Paste images into remote Claude Code and Codex CLI over SSH. Clipboard bridging for macOS and Windows. ![GitHub stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square)
 - [chuvadenovembro/script-to-use-codex-cli-on-remote-server](https://github.com/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment) - Headless server setup guide with auth workarounds. ![GitHub stars](https://img.shields.io/github/stars/chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment?style=flat-square)
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Local-first iOS app + Mac bridge for remote Codex control. Encrypted sessions, Git integration, App Store available. ![GitHub stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square)
+- [eamon831/farcall-releases](https://github.com/eamon831/farcall-releases) - Android app plus a background service for macOS, Windows and Linux that drives Codex CLI (and Claude Code) on your own computer: start sessions, allow or deny each command and edit, get notified when it finishes, with no desktop app to keep open. ![GitHub stars](https://img.shields.io/github/stars/eamon831/farcall-releases?style=flat-square)
 
 ---
 
