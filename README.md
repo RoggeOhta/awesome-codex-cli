@@ -180,6 +180,7 @@ Reusable instruction bundles in `SKILL.md` format. Place in `~/.codex/skills/` (
 - [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) - macOS SwiftUI app to manage local Codex and Claude Code skills. Browse and download from Clawdhub. ![GitHub stars](https://img.shields.io/github/stars/Dimillian/CodexSkillManager?style=flat-square)
 - [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - Cross-platform desktop app (Tauri 2.0 + React 19 + Rust) for managing skills across multiple AI tools. ![GitHub stars](https://img.shields.io/github/stars/jiweiyeah/Skills-Manager?style=flat-square)
 - [DargonLee/skill-switch](https://github.com/DargonLee/skill-switch) - Cross-platform desktop app for managing AI tool skill files - unified interface for Codex CLI, Claude Code, Gemini CLI, Cursor. ![GitHub stars](https://img.shields.io/github/stars/DargonLee/skill-switch?style=flat-square)
+- [ukchucktown/lampwright](https://github.com/ukchucktown/lampwright) - Cross-platform terminal UI that finds skills in Codex, Claude Code, Gemini CLI, and the universal `.agents/skills` directories, then updates, reversibly disables, or safely removes them. ![GitHub stars](https://img.shields.io/github/stars/ukchucktown/lampwright?style=flat-square)
 - [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) - Security-audited skills marketplace. One-click install with automated security analysis. ![GitHub stars](https://img.shields.io/github/stars/aiskillstore/marketplace?style=flat-square)
 
 ### Domain-Specific Skills
