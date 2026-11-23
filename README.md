@@ -207,6 +207,7 @@ User-defined shell scripts that run at specific points in the agentic loop. Requ
 - [shanraisshan/codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) - Starter hooks collection: pre-commit validation, cost tracking, notification triggers. ![GitHub stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat-square)
 - [liewcf/codex-notify-macos](https://github.com/liewcf/codex-notify-macos) - macOS notification hook - get alerted when long-running tasks complete. ![GitHub stars](https://img.shields.io/github/stars/liewcf/codex-notify-macos?style=flat-square)
 - [vcz-Gray/loophaus](https://github.com/vcz-Gray/loophaus) - Cross-platform iterative development loops via Stop hooks. ![GitHub stars](https://img.shields.io/github/stars/vcz-Gray/loophaus?style=flat-square)
+- [tech4242/aquaman](https://github.com/tech4242/aquaman) - Credential proxy with a PreToolUse hook for Codex and Claude Code: API keys stay in your vault (Keychain, 1Password, Bitwarden) and reach only the command that needs them, redacted from its output. ![GitHub stars](https://img.shields.io/github/stars/tech4242/aquaman?style=flat-square)
 
 ## MCP Servers
 
