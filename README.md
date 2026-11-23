@@ -466,6 +466,7 @@ Codex CLI team members and frequent contributors:
 
 ## Shell & Terminal
 
+- [nonamelx/morph](https://github.com/nonamelx/morph) - Browse and customize themes in a browser, then export TextMate themes for the Codex CLI theme picker. ![GitHub stars](https://img.shields.io/github/stars/nonamelx/morph?style=flat-square)
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - Zsh plugin for AI-powered command completion using Codex. ![GitHub stars](https://img.shields.io/github/stars/tom-doerr/zsh_codex?style=flat-square)
 - [gravtice/ohmyzsh-ai-cli-plugins](https://github.com/gravtice/ohmyzsh-ai-cli-plugins) - Oh My Zsh plugins for AI coding agents. ![GitHub stars](https://img.shields.io/github/stars/gravtice/ohmyzsh-ai-cli-plugins?style=flat-square)
 - [sadjow/codex-cli-nix](https://github.com/sadjow/codex-cli-nix) - Nix flake for reproducible Codex CLI installation. ![GitHub stars](https://img.shields.io/github/stars/sadjow/codex-cli-nix?style=flat-square)
