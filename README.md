@@ -366,6 +366,7 @@ Tools that bridge Codex with other AI coding agents.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - macOS menu bar app showing usage stats for Codex, Claude, Cursor, Gemini without login. On-device parsing. ![GitHub stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square)
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze local Codex and Claude Code usage with CLI reports and token-cost breakdowns. ![GitHub stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square)
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - CLI + TUI + web dashboard tracking token usage across 16+ AI coding platforms. Rust core, contribution graphs, leaderboard. ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
+- [navbuildz/ai-usage-menu](https://github.com/navbuildz/ai-usage-menu) - macOS menu bar and Dock app showing Codex and Claude Code session and weekly limits, reset times and pace. Reads local logs, no login or API key. ![GitHub stars](https://img.shields.io/github/stars/navbuildz/ai-usage-menu?style=flat-square)
 
 ## Docker & Sandboxing
 
