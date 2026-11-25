@@ -259,6 +259,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [michaelversus/BuildrAIApp](https://github.com/michaelversus/BuildrAIApp) - Free macOS app for reviewing local Codex sessions, token usage, tool activity, and exportable reports; repository hosts support resources. ![GitHub stars](https://img.shields.io/github/stars/michaelversus/BuildrAIApp?style=flat-square)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop all-in-one assistant for Claude Code, Codex, OpenCode, OpenClaw, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web and mobile UI for Claude Code and Codex. Launch sessions, stream responses, approve tools from browser/mobile. ![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/companion?style=flat-square)
+- [blucca/codex-desk](https://github.com/blucca/codex-desk) - Local Python browser workbench for native Codex app-server: reopen saved project conversations and review command/MCP evidence before handing work into a new provider thread. ![GitHub stars](https://img.shields.io/github/stars/blucca/codex-desk?style=flat-square)
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - Desktop manager for Codex CLI with task management and batch processing. ![GitHub stars](https://img.shields.io/github/stars/cnlimiter/codex-manager?style=flat-square)
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - Local-first desktop client bridging agents to WeChat, Feishu, Slack, Discord. BYOK. ![GitHub stars](https://img.shields.io/github/stars/nexu-io/nexu?style=flat-square)
 - [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - Integrated console for Codex: task management, batch processing, data export, auto-upload, log viewing. ![GitHub stars](https://img.shields.io/github/stars/dou-jiang/codex-console?style=flat-square)
@@ -387,8 +388,6 @@ Tools that bridge Codex with other AI coding agents.
 - [burakdede/aisw](https://github.com/burakdede/aisw) - AI Switcher (aisw) - CLI utility to manage multiple accounts for Claude Code, Codex CLI, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/burakdede/aisw?style=flat-square)
 
 ## Tutorials & Articles
-
-- [Native Codex Provider Trial](https://blucca.github.io/guides/codex-provider-trial/) - Free profile builder and project-task walkthrough using native sidecars to retain base MCP/trust settings, with a local task/usage receipt and next-session reuse.
 
 - [Codex Windows Permissions Guide](https://tgwise.com/guides/codex-windows-permissions/) - Community guide to approval prompts, sandbox modes, and checking effective Windows permissions.
 - [How Codex is Built (Pragmatic Engineer)](https://newsletter.pragmaticengineer.com/p/how-codex-is-built) - Deep technical dive into Codex's architecture. Rust, sandboxing, the TUI. Essential reading.
