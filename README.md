@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli"><img src="https://img.shields.io/github/stars/RoggeOhta/awesome-codex-cli?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/resources-271-blue" alt="Resources">
+  <img src="https://img.shields.io/badge/resources-272-blue" alt="Resources">
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/commits/main"><img src="https://img.shields.io/github/last-commit/RoggeOhta/awesome-codex-cli" alt="Last Commit"></a>
   <a href="https://github.com/RoggeOhta/awesome-codex-cli/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0">
@@ -16,7 +16,7 @@
 
 Codex CLI is OpenAI's open-source terminal-based coding agent. It lets you use GPT models to write, refactor, debug, and reason about code directly from the command line - with sandboxed execution, multi-agent orchestration, MCP support, and a growing ecosystem of skills and plugins. Think of it as an AI pair programmer that lives in your terminal.
 
-**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **271 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
+**Why this list?** The Codex CLI ecosystem is fragmented across dozens of repos - subagents here, skills there, plugins somewhere else. This list consolidates **272 resources** into one place, organized by feature category, with opinionated descriptions so you know what's actually worth your time.
 
 **Looking for Claude Code or Gemini CLI?** Check the [comparison table](#codex-cli-vs-claude-code-vs-gemini-cli) below.
 
@@ -259,6 +259,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [michaelversus/BuildrAIApp](https://github.com/michaelversus/BuildrAIApp) - Free macOS app for reviewing local Codex sessions, token usage, tool activity, and exportable reports; repository hosts support resources. ![GitHub stars](https://img.shields.io/github/stars/michaelversus/BuildrAIApp?style=flat-square)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop all-in-one assistant for Claude Code, Codex, OpenCode, OpenClaw, and Gemini CLI. ![GitHub stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web and mobile UI for Claude Code and Codex. Launch sessions, stream responses, approve tools from browser/mobile. ![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/companion?style=flat-square)
+- [blucca/codex-desk](https://github.com/blucca/codex-desk) - Local Python browser workbench for native Codex app-server: reopen saved project conversations and review command/MCP evidence before handing work into a new provider thread. ![GitHub stars](https://img.shields.io/github/stars/blucca/codex-desk?style=flat-square)
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - Desktop manager for Codex CLI with task management and batch processing. ![GitHub stars](https://img.shields.io/github/stars/cnlimiter/codex-manager?style=flat-square)
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - Local-first desktop client bridging agents to WeChat, Feishu, Slack, Discord. BYOK. ![GitHub stars](https://img.shields.io/github/stars/nexu-io/nexu?style=flat-square)
 - [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - Integrated console for Codex: task management, batch processing, data export, auto-upload, log viewing. ![GitHub stars](https://img.shields.io/github/stars/dou-jiang/codex-console?style=flat-square)
