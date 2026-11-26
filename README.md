@@ -389,6 +389,7 @@ Tools that bridge Codex with other AI coding agents.
 ## Tutorials & Articles
 
 - [Codex Windows Permissions Guide](https://tgwise.com/guides/codex-windows-permissions/) - Community guide to approval prompts, sandbox modes, and checking effective Windows permissions.
+- [How to Stop Codex Reading .env Files (VariantGate)](https://variantgate.com/articles/stop-codex-reading-env-files) - Tested on Codex CLI 0.172: both sandbox modes still let commands read `.env`; a permission profile `deny` entry stops it, plus the gaps that remain (git history, home folder, environment variables).
 - [How Codex is Built (Pragmatic Engineer)](https://newsletter.pragmaticengineer.com/p/how-codex-is-built) - Deep technical dive into Codex's architecture. Rust, sandboxing, the TUI. Essential reading.
 - [Dogfood: Codex Builds Codex (Stack Overflow)](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) - How the Codex team uses their own tool. Real-world workflow patterns.
 - [How Codex Team Uses Their Agent (Every)](https://every.to/podcast/transcript-how-openai-s-codex-team-uses-their-coding-agent) - Transcript of the team discussing daily usage, tips, and antipatterns.
