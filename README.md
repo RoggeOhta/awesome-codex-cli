@@ -277,6 +277,7 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 
 ## Session & Workflow Management
 
+- [fru-dev3/glyph](https://github.com/fru-dev3/glyph) - Zsh wrapper that names every Codex, Claude Code and Antigravity session with a label, the project, the machine and the start time, on the terminal title and tmux window too, and reports each agent's remaining quota with `glyph usage`. ![GitHub stars](https://img.shields.io/github/stars/fru-dev3/glyph?style=flat-square)
 - [miniLV/coding-agent-memory](https://github.com/miniLV/coding-agent-memory) - Compile local Codex and Claude Code sessions into an auditable Markdown wiki with a retrieval skill and Codex App automations. ![GitHub stars](https://img.shields.io/github/stars/miniLV/coding-agent-memory?style=flat-square)
 - [rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness) - LoopGate runs Codex and other coding agents through repeated tasks with repository specs, commit gates, and quality checks. ![GitHub stars](https://img.shields.io/github/stars/rxdt/loopgate_harness?style=flat-square)
 - [kunal12203/GrapeRoot](https://github.com/kunal12203/GrapeRoot) - Persistent context and a code knowledge graph for coding agents, with a Codex CLI launcher. ![GitHub stars](https://img.shields.io/github/stars/kunal12203/GrapeRoot?style=flat-square)
