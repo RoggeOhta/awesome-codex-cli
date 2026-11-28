@@ -314,6 +314,8 @@ Codex supports `openai_base_url` for custom model providers. Use any OpenAI-comp
 - [maksimzayats/acodex](https://github.com/maksimzayats/acodex) - Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items). ![GitHub stars](https://img.shields.io/github/stars/maksimzayats/acodex?style=flat-square)
 - [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) - Lightweight local relay that converts Codex Desktop's Responses API to multiple protocol interfaces (OpenAI, Anthropic, Gemini). ![GitHub stars](https://img.shields.io/github/stars/icebear0828/codex-proxy?style=flat-square)
 
+- [AIModelFold/modelfold-examples](https://github.com/AIModelFold/modelfold-examples/tree/main/codex-cli) - Configure Codex CLI to use ModelFold’s hosted Responses API with a local environment variable; the configuration is free to copy and API usage is metered. ![GitHub stars](https://img.shields.io/github/stars/AIModelFold/modelfold-examples?style=flat-square)
+
 ## CI/CD & Automation
 
 Use `codex exec` for non-interactive automation in pipelines.
